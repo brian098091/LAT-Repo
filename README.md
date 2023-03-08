@@ -15,4 +15,4 @@
 
 ## 作業連結
 > ### Week3
->> #### [**HW1**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+>> #### [**HW1**](hw1.ipynb)
