@@ -16,3 +16,4 @@
 ## 作業連結
 > ### Week3
 >> #### [**HW1**](https://github.com/brian098091/LAT-Repo/blob/main/HW1/hw1.ipynb)
+>> #### [**HW2**](https://github.com/brian098091/LAT-Repo/blob/main/HW2/HW2.ipynb)
