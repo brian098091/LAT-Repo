@@ -1,0 +1,1846 @@
+Article
+The Phenomenon and Development of K-Pop: The
+Relationship between Success Factors of K-Pop and the
+National Image, Social Network Service Citizenship
+Behavior, and Tourist Behavioral Intention
+
+Joon-ho Kim   1   , Kwang-jin Kim   2, Bum-tae Park   3 and Hyun-ju Choi    4,*
+
+                               1  The Cultural Policy Laboratory, Sangmyung University, Cheonan-si 31006, Korea; kshy4u@naver.com
+                               2  Department of Dance, Chung-Ang University, Seoul 06974, Korea; kkjballet@naver.com
+                               3  Department of Cultural Contents, Korea University Graduate School, Jochiwon-eup, Sejong-si 30019, Korea;
+                                  jang6275@naver.com
+                               4  Department of Cultural & Arts Management, Sangmyung University, Cheonan-si 31066, Korea
+                               *  Correspondence: hyunju_choi@naver.com
+
+                               Abstract: This study aims to understand the impact of six success factors of K-pop on the national
+                               image of Korea perceived by global viewers and SNS citizenship behavior. In addition, this study
+                               seeks to validate the impact of the national image of Korea/SNS citizenship behavior, as deﬁned in the
+                               foregoing, on tourist behavioral intention. Our analysis was conducted within the theoretical frame-
+                     works of the SERVQUAL, Image Theory, and the Theory of Planned Behavior. To that end, 1247 global
+     
+                               viewers (eight countries) who have listened, watched and searched for information on K-pop are sur-
+Citation: Kim, J.-h.; Kim, K.-j.;
+                               veyed. Four statistical programs (SPSS/SmartPLS/GSCA Pro/JASP) are used for regression analysis
+Park, B.-t.; Choi, H.-j. The
+                               and structural equation modeling. The results indicate the following. (1) Four K-pop success factors
+Phenomenon and Development of
+                               (producers, casting, producing/promotion, and contents) demonstrate a statistically signiﬁcant posi-
+K-Pop: The Relationship between
+Success Factors of K-Pop and the tive inﬂuence on national image. (2) Two K-pop success factors (casting and producing/promotion)
+National Image, Social Network demonstrate a statistically signiﬁcant positive inﬂuence on SNS citizenship behavior. In addition,
+Service Citizenship Behavior, and K-pop contents has a statistically signiﬁcant positive inﬂuence on SNS citizenship behavior (only in
+Tourist Behavioral Intention.  SPSS). (3) National image has a statistically signiﬁcant positive inﬂuence on SNS citizenship behavior;
+Sustainability 2022, 14, 3200. and national image and SNS citizenship behavior have a statistically signiﬁcant positive inﬂuence on
+https://doi.org/10.3390/       tourist behavioral intention. As an exemplary cultural product, K-pop is creating economic added
+su14063200                     value. It is necessary to establish the measures to integrate K-pop in product planning and PR for
+
+Academic Editor: Pablo         sustainable marketing for Hallyu tourism.
+Juan Cárdenas-García
+                               Keywords:  success factors of K-pop; national image; SNS citizenship behavior; tourist behavioral
+Received: 30 January 2022      intention; global viewers; regression analysis; structural equation model analysis
+Accepted: 7 March 2022
+Published: 9 March 2022
+
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in 1. Introduction
+published maps and institutional afﬁl- Korean popular music (K-pop) enjoys worldwide recognition. K-pop slowly advanced
+iations.                       onto the international stage in the late 1990s [1]. In the beginning, K-pop was popular
+                               mainly in East Asia. For this reason, numerous media and scholars attributed K-pop success
+                               to the common culture of Confucianism at the time [2]. However, the popularity of K-pop
+
+Copyright: © 2022 by the authors. has expanded beyond East Asia and is growing in Europe, North and South America, and
+Licensee MDPI, Basel, Switzerland. Africa [3]. Due to its media-friendly nature, K-pop has proven to be resilient even during
+This article is an open access article the COVID-19 pandemic. In other words, the spread of K-pop is greatly credited to its
+distributed under the terms and online circulation on social media and the internet [4].
+conditions of the Creative Commons  In addition, digitalization had an impact on many domains including the producers
+Attribution (CC BY) license (https:// and consumers of the music industry. From  a macroscopic point of view, the music
+creativecommons.org/licenses/by/ industry has been transformed from     analogue to digital, from   ofﬂine to online, from
+4.0/).                         albums to singles, from    division of labor to integration of companies, from      domestic
+
+
+Sustainability 2022, 14, 3200. https://doi.org/10.3390/su14063200 https://www.mdpi.com/journal/sustainability
+Sustainability 2022, 14, 3200                                                                           2 of 30
+
+
+                           distribution to international distribution, and from music to imagery. In terms of music
+                           consumption, it shifted to accessing and maximizing the synergy through integration from
+                           owning music catalogues [5]. Amid such transformation, the Korean music industry was
+                           able to improve its global competitiveness by embracing technology development and
+                           digitalization, successfully launching K-pop into the world market [6].
+                                Along with the development of digital devices, online media such as YouTube, Face-
+                           book, and Twitter became extremely popular. Because the Korean music industry does
+                           not closely observe the copyright act, internet media were utilized more actively than in
+                           other countries [7]. The largest entertainment companies created YouTube channels and
+                           immediately released their new songs. As internet media targeted the global population,
+                           K-pop was widely spread and shared around the world. Furthermore, social media allowed
+                           K-pop artists to connect and build bonds with their fans, resulting in the formation of
+                           ardent fan bases without borders [8]. Thus, “social media” plays a key role in the success
+                           of K-pop.
+                                When the internet helped K-pop spread not only in Korea but overseas, Korean enter-
+                           tainment companies began to look beyond the small domestic music market and take the
+                           international market into consideration. Accordingly, some companies recruited bilingual
+                           speakers or foreigners for K-pop groups [9]. Compared to the past, more companies are
+                           attempting to hold performances in other countries or collaborate with well-known artists
+                           from other countries. In short, internet media provided opportunities to learn about new
+                           markets and had a great impact on diversifying K-pop [10]. Thus, “casting” plays a key
+                           role in the success of K-pop.
+                                To quickly produce ﬂawless songs in the K-pop market of idol music, which has a
+                           short cycle of popularity, the music industry established a well-organized and coordinated
+                           production system that engages experts from each ﬁeld for music production. Music was
+                           also merchandized by entertainment companies when the factory-style division of labor was
+                           applied as the method of producing high quality music efﬁciently and continuously [11].
+                           To reﬂect the global trend, the companies collaborated on many songs with producers
+                           from other countries. In dance music that highlights the acoustics, the role of a composer
+                           was expanded to the producer who takes charge of the acoustics. In short, particular
+                           producers and artists continued to work together and created series of hits. This provided
+                           the opportunity for them to understand the attributes and the ideas of one another in a
+                           continuing relationship and improve the efﬁciency of music production and the authenticity
+                           of music [5].
+                                In this manner, the trendy music style familiar to international audiences became
+                           more approachable through trans-country genre integration, frequent use of English lyrics,
+                           reﬂection of the newest global trends, and sophisticated acoustics [12]. Hook songs that
+                           repeat the motifs are very impressionable and easy to remember and sing along with even
+                           for listeners who do not know the Korean language, while establishing the identity of
+                           the artists with a clear concept [13]. The refreshing and robust lyrics not only invoked
+                           emotional empathy from international fans but also reﬂected the Korean sentiment [14].
+                           The worldwide success of K-pop is not coincidental; it is a result of various attempts at
+                           international launching and continual improvement by Korean music producers. Despite
+                           the criticism that K-pop songs are very much alike in music style, K-pop has generated
+                           a new distinctive feature in the competitive music market through experimental music,
+                           integrating diverse genres using a unique concept [15]. Thus, “producing” plays a key role
+                           in the success of K-pop.
+                                In addition, the music industry, which used to be sub-divided into different domains
+                           such as scouting, producing, recording, and managing, was radically transformed by the
+                           development of hardware and the advent of the internet. The development of hardware
+                           helped mass-produce songs and records more quickly and easily while the internet brought
+                           about a fundamental change in marketing and promotion [16]. Using the internet, entertain-
+                           ment companies could communicate with the public and learn in depth what the market
+                           desires in terms of singers and bands. The entertainment companies directly recruited
+Sustainability 2022, 14, 3200                                                                           3 of 30
+
+
+                           promising trainees as needed and provided training programs [13]. To maximize the net
+                           worth of the singers or the groups that they had been training, entertainment companies
+                           with bargaining power managed the performance schedule. In short, specialties of the
+                           music industry have become integrated [17]. Thus, “producers and promotion” plays a key
+                           role in the success of K-pop.
+                                Consumers want K-pop content that they can relate to. Therefore, it is necessary
+                           to consider whether K-pop contains content that demonstrates an understanding of and
+                           relates to the lives of consumers worldwide [18]. Seeking pure aesthetics is one of the
+                           main reasons for creative work. An important lesson here is that consumers value relatable
+                           content much more than aesthetics that are far from reality [19]. Meanwhile, it is crucial
+                           to pay attention to the fans or the consumers of K-pop and strive to take their feedback to
+                           heart. Unlike the past, “domineering stars” no longer receive a warm welcome. Consumers
+                           want artists who can be in touch with them from their own perspective. In short, it is
+                           necessary to obtain universal popularity that transverses nationalities [20,21].
+                                K-pop is also a comprehensive art. It is cultural merchandise packaged with diverse
+                           factors rather than one simple song sung by a singer. The state-of-the-art lyrics, arrange-
+                           ment, and colorful performance were consistent with the “era of enjoying music visually”
+                           beyond just listening when the ﬁeld of cultural production actively integrated with infor-
+                           mation technology [9]. In particular, K-pop came to have a strong brand image in the world
+                           market of pop culture as the inﬁnitely expandable information technology was combined
+                           with the charm of idols with outstanding vocals and extraordinary choreography [12].
+                                Strictly speaking, the popularity of K-pop idol groups in the international market, includ-
+                           ing the USA, was credited to the regimented performances and musical melodies that allowed
+                           a successful entry to the global market of pop music [9,12]. Unlike K-pop with its lively dance
+                           performances, music genres such as sentimental ballads that deal with emotions must be sung
+                           in the language of the audience in order to appeal to them. However, by naturally exposing
+                           music consumers to the songs in their language, it is possible to expand the soft power of
+                           K-pop [22]. Approximately 75% of the market for K-pop merchandise is the international
+                           music market. This is the reason for producing K-pop in English and local languages [23].
+                           Thus, “content” plays a key role in the success of K-pop.
+                                Nevertheless, what matters the most is the “skills” development as mentioned earlier.
+                           The reason for the worldwide adoration of Hallyu (the Korean wave) contents such as
+                           K-pop, dramas, and movies are the performers’ outstanding artistic skills. The artists
+                           excel in singing, acting, telling stories, and ﬁlming. Authenticity and communication are
+                           based on the foundation of such skills [17]. In short, entertainment companies make a
+                           long-term investment to produce the best entertainers and bear the burden of investing
+                           huge amounts of time and money for training [24]. Thus, “training” plays a key role in the
+                           success of K-pop.
+                                The performance and entertainment business has turned its attention to various online
+                           platforms such as YouTube [25]. During the COVID-19 pandemic, which mandates “social
+                           distancing,” online platforms became the second-best option to live concerts. BTS’s online
+                           concert, “Bang Bang Con” is a well-known example [26]. In line with the non-contact
+                           mandate, “Bang Bang Con” tied together the conventional concert, fan interaction, and
+                           live performance. In April 2020, Big Hit Entertainment also hosted a BTS concert and
+                           streamed it online. During this event, over 750,000 fans from 107 countries went online
+                           simultaneously, generating a minimum of 21.7 billion KRW from online ticket sales [26].
+                                Along with the enhancement in national image and brand image, K-pop’s overseas
+                           expansion had a ripple effect by increasing attraction to various Korean industries including
+                           merchandise, health care, tourism, Hangul, foods, and fashion [27]. It is not difﬁcult to ﬁnd
+                           research reports indicating that many Korean industries beneﬁted from K-pop’s overseas
+                           expansion and the second Korean Wave (or Hallyu). Thus, K-pop’s continuous expansion
+                           in the overseas market has had a positive effect not only on the development of the Korean
+                           music industry but also on the national economy, which needed a new driving force for
+                           growth [17,28,29].
+Sustainability 2022, 14, 3200                                                                           4 of 30
+
+
+                                As mentioned earlier, global fans of K-pop actively used social media and expedited
+                           the spread of K-pop [17,30,31]. Thus, the global audience for K-pop shifted from passive
+                           consumers to proactive participants. Furthermore, there was interactive communication
+                           and information sharing between K-pop idols and their fans on social network service
+                           (SNS). In addition, the inﬂuence of new media such as YouTube and SNS changed the
+                           paradigm  of K-pop distribution and encouraged active participation of fans [17,30,31].
+                           Global fans of K-pop naturally manifested SNS citizenship behavior of sharing information
+                           on SNS. Thus, the success factors of K-pop exert a great impact on the national image, SNS
+                           citizenship behavior, and tourist behavioral intention.
+                                Previous studies have limitations in that they did not identify the diverse success
+                           factors of K-pop and examine the causal relationship of them with national image and SNS
+                           citizenship behavior from multiple perspectives. In addition, they failed to empirically
+                           examine whether national image and SNS citizenship behavior can induce or improve
+                           tourist behavioral intention. Therefore, this study aims to identify the success factors of
+                           K-pop and empirically examine whether these factors can exert a positive effect on national
+                           image and SNS citizenship behavior, and ultimately on tourist behavioral intention. To this
+                           end, the following research questions are proposed.
+                                Research Questions:
+                           RQ1: How does the success factor of K-pop affect SNS citizenship behavior?
+                           RQ2: How  does national image affect SNS citizenship behavior and tourist behavioral
+                                intention?
+                           RQ3: How does SNS citizenship behavior affect tourist behavioral intention?
+                           RQ4: Is there a mediating effect of national image and SNS citizenship behavior in the
+                                relationship between the success factors of K-pop and tourist behavioral intention?
+
+                           2. Literature Review
+                           2.1. Base Theories
+                                K-pop refers to the trendy music gaining popularity in South Korea [23,32]. As Korean
+                           pop music became popular in other countries, the term K-pop was widely used outside
+                           the country [23,32]. The success of K-pop can be summed up as a producer’s or entertain-
+                           ment company’s organized production process entailing “casting/training/producing/
+                           promoting.” These factors laid the foundation for meticulous preparation for entering
+                           the international market [33]. In this process, the use of social media such as YouTube,
+                           Facebook, and Twitter played a role in saving time and money for launching overseas [33].
+                           In other words, social media had a key role in the success of K-pop. Therefore, based on the
+                           above facts, this study aims to analyze the success factors of K-pop from the perspective of
+                           production, consumption, and distribution. In addition, we examine the base theories in
+                           depth in the following sections.
+
+                           2.2. Service Quality Model
+                                The service quality (SERVQUAL) model is most widely accepted as a tool for measur-
+                           ing service quality. Service is characterized by intangibility, heterogeneity, inseparability,
+                           and perishability. To measure service quality, the SERVQUAL model was suggested as a
+                           way of analyzing the congruence between consumers’ expectations and perceptions [34–36].
+                           The SERVQUAL model presents the following ﬁve critical dimensions to consider when
+                           evaluating a service for general customers or users of various types of services: (1) Tangibil-
+                           ity refers to physical facilities (e.g., building, store, interior), equipment, and the appearance
+                           of service personnel; (2) Reliability refers to the ability to perform the promised service
+                           dependably and accurately; (3) Responsiveness refers to the service personnel’s ability
+                           and willingness to help customers and provide prompt service; (4) Assurance refers to the
+                           knowledge and courtesy of employees and their ability to convey trust and conﬁdence; and
+                           (5) Empathy refers to caring and individualized attention to each customer [37–39]. Studies
+                           that applied the SERVQUAL model are summarized in Table 1.
+Sustainability 2022, 14, 3200                                                                                                                                                     5 of 30
+
+                               Table 1. Examples of applying the SERVQUAL model.
+
+                                                                                    Responsiveness               Assurance                                           Researcher
+       Service Field              Tangibility                Reliability                                                                    Empathy                   (Source)
+                                                                                  Swiftness in baggage
+                                                                                                                                       Understanding and
+                               Airplanes, ticketing                              handling and ticketing,       Trustable names,
+          Airlines                                     Departing and arriving                                   safety records,       caring for individuals’      Rezaei et al. [40]
+                               counters, uniforms             on time             and promptness upon                                                               Shah et al. [41]
+                                                                                                            competent employees          particular needs
+                                                                                request for inﬂight service
+                                                                                                                                      Treating patients with
+                                                        Seeing patients at the     Attitude of carefully     Expertise and skills,
+                            Buildings, waiting rooms,                                                                                    respect and care,
+      Medical service          examination rooms,      scheduled time, giving     listening to customers   validated qualiﬁcations,                                  Ali et al. [42]
+                                                                                                                                      remembering previous          Lee & Kim [43]
+                               medical equipment         accurate diagnosis     (patients), short wait time  fame and reputation
+                                                                                                                                         health problems
+                                                                                                                                        Remembering the
+                             Repair facilities, waiting Fixing the problem and   Accessibility, short wait                              customer’s names,         Famiyeh et al. [44]
+        Auto repair                                                                                            Mechanics with          previous issues, and
+                                rooms, uniforms,       getting it done within a   time, prompt response       expert knowledge                                      Jain et al. [45]
+                                repair equipment        promised time frame            to requests                                        understanding           James & James [46]
+                                                                                                                                           preferences
+
+                                                                                 Responding quickly and                                 Understanding the
+                            Ofﬁce, business proposal, Proposing and executing                              Validated qualiﬁcations,                               Durdyev et al. [47]
+       Construction                                                                accommodating the         reputation, expertise,  customer and the speciﬁc
+                             invoice, employee attire  the plans within budget   changes in needs in the          and skills                                   Prakash & Phadtare [48]
+                                                                                   construction process                               needs of the customer
+                                                                                                                                       Understanding and
+                                                        Making proposals and
+                                                                                  Travel-related product        Finding and            considering various      Gholipour Soleimani &
+                                  Ofﬁce, travel        reservations tailored to
+       Travel agency             agency website                                        reservation,          recommending local       situations (e.g., family    Einolahzadeh [49]
+                                                          customer’s needs           visa processing                                                             Mohtasham et al. [50]
+                                                            and budgets                                      tourist destinations       trip, business trip,
+                                                                                                                                           friendship)
+                                                                                                            Well-organized process
+                                                                                  Real-time delivery or
+                                                       Producing albums and                                 and system related to
+                               Discovering talent                                prompt communication              K-pop              Optimizing a variety of        Chang [51]
+                                                         music videos with         with fans regarding      production(producer),     contents and obtaining
+          K-pop             through street auditions,  perfection/reliability for                                                                                  Choi & Park [52]
+                                  events, and             the global market       assorted information    and professional trainings     popularity and               Kim [53]
+                                festivals (casting)                             about K-pop through SNS    for talented trainees with  empathy (contents)           Oh & Lee [33]
+                                                       (producing/promotion)         (social media)          the ability to convey
+                                                                                                             conﬁdence (training)
+Sustainability 2022, 14, 3200                                                                           6 of 30
+
+                                In this study, we examined the success factors of K-pop within the ﬁve dimensions of
+                           the SERVQUAL model. The success factors of K-pop were re-labeled in accordance with
+                           the purpose of this study: (1) Tangibility factor of K-pop encompasses scouting efforts to
+                           discover the talents through street auditions, events, and festivals. This was re-labeled as
+                           “casting” for this study; (2) Reliability factor encompasses the effort to produce albums
+                           and music videos with perfection/reliability for the global market. This was re-labeled as
+                           “producing/promotion”; (3) Responsiveness factor encompasses the real-time delivery or
+                           prompt communication with the fans through SNS regarding assorted information about
+                           K-pop. This was re-labeled as “social media”; (4) Assurance factor encompasses the well-
+                           organized process and system related to K-pop production and training for talented trainees
+                           with the ability to convey conﬁdence. This was re-labeled as “producers” and “training”;
+                           and (5) Empathy factor encompasses the attributes of K-pop that optimize a variety of
+                           contents and generate popularity and empathy. This was re-labeled as “contents” [33].
+                           When examining the above-mentioned factors, the ‘SERVQUAL model’ can be applied as
+                           the base theory for analyzing the success factors of K-pop.
+
+                           2.3. Image Theory
+                                Image theory by [54] was developed as an alternative to decision making theory,
+                           which was based on the expected utility theory. Image theory focuses more on the decision-
+                           making process, which was not expounded by the expected utility theory [54]. Even though
+                           behavioral decision approaches centered on heuristics and biases undoubtedly show that
+                           actual decision-making deviates from the normative decision-making model, they do not
+                           encompass the entire cognitive process of decision-making [55].
+                                To overcome these limitations, the image theory provides an ideal model for analyzing
+                           the decision-making process for individuals or organizations in situations that require
+                           social, ethical, or moral considerations from a behavioral point of view [56,57]. The image
+                           theory disregards the normative decision model and holds that decision making is guided
+                           by the values and beliefs of individuals or groups who make decisions. Therefore, decision-
+                           makers choose their behavioral path for achieving goals within the boundary of their values
+                           and beliefs [56,57].
+                                The image theory is divided into two components: a component describing personal
+                           decision making and a component describing organizational decision making. Regardless
+                           of the unit of analysis, both components use framing, a process to recognize a problem
+                           prior to making decisions [58]. For framing, decision makers use three types of image:
+                           value image, trajectory image, and strategic image [59,60]. As such, the image theory
+                           hypothesizes that decision makers utilize three different schematic knowledge structures,
+                           namely images, to organize their thinking in performing decision-making tasks [59,60].
+                           (1)  The value image is the decision-maker’s principle, and it contains the concepts that define
+                                what is right, such as beliefs, values, moral standards, ethics, and norms. For example,
+                                “Let’s fulfill the social responsibility” is a value image (value/standard/principle). Such
+                                a principle works as a criterion for judging the appropriateness of the decision making
+                                with regard to designing and choosing the alternative goals and plans that are likely
+                                to be selected [59,60].
+                           (2)  The trajectory image refers to the goal agenda describing the future state that a
+                                decision-maker wishes to achieve. For example, “Let’s double the productivity” is a
+                                trajectory image. Based on the trajectory image, decisions are made on which behavior
+                                is appropriate and which is not [59,60].
+                           (3)  The strategic image comprises different plans selected for achieving a goal, a strat-
+                                egy for achieving the plan, and a prediction of the outcome of the strategy. Plan-
+                                ning is an abstract process that entails a series of behaviors ranging from goal
+                                setting to goal achievement. Strategy refers to the speciﬁc and practical behav-
+                                iors required by the plan. Prediction means forecasting future outcomes that will
+                                take place upon selecting a certain plan and strategy [59,60]. This entails plan-
+                                ning/implementation/enforcement of actions.
+Sustainability 2022, 14, 3200                                                                                                              7 of 30
+
+
+                                           To summarize the above descriptions, the image theory can be applied as a base theory
+                                     for analyzing the path for the success factors of K-pop as follows: the success factors of
+                                     K-pop   →   national image/SNS citizenship behavior              →  tourist behavioral intention. The
+                                     application or implementation of the decision-making frame in the ‘image theory’ can be
+                                     speciﬁed as in Table 2.
+
+                                     Table 2. Decision-making frame in image theory (application/implementation).
+
+         Image                                                                 Description                                      Researcher
+                                Variables                                                                                        (Source)
+
+                                                  •     Degree of systematic processes                                          Chang [51]
+                               Producers                and systematization related to     value/standard/principle           Choi & Park [52]
+                                                        K-pop production                                                         Kim [53]
+
+                                                                                                                                Chang [51]
+                                                  •     Degree of various efforts to
+                                 Casting                                                   value/standard/principle           Choi & Park [52]
+                                                        discover K-pop talent                                                    Kim [53]
+                                                                                                                                 Kim [61]
+
+                                                  •     Degree of comprehensive
+                                Training                training to develop                value/standard/principle             Chang [51]
+                                                        K-pop talent
+
+                                                  •     Degree of production of
+      Value image                                       high-quality albums and wide
+                               Producing/               promotions suited for the
+                               promotion                                                   value/standard/principle             Chang [51]
+                                                        global market in relation
+                                                        to K-pop
+
+                                                  •     Degree to which real-time
+                                                                                                                              An & Jeong [62]
+                                 Social                 information on various K-pop
+                                 media                  contents is provided or            value/standard/principle             Chang [51]
+                                                        communicated through SNS                                              Cho & Sim [63]
+
+                                                  •     Degree of additional
+                                                        originality and efforts to                                              Chang [51]
+                                Contents                secure popular appeal after        value/standard/principle         Lee, Kim, & Oh [64]
+                                                        optimizing a variety of                                               Wen & Cha [65]
+                                                        K-pop contents
+
+                                                                         ↓
+
+                                                  •     Level of economic and cultural
+                                                        inﬂuence in the international
+                             National image             society and competitiveness of            goal agenda                  Choi et al. [66]
+                                                        Korea, the source of K-pop
+    Trajectory image
+                                                  •     Degree to which good
+                             SNS citizenship            information or material
+                                                                                                  goal agenda                  Kim et al. [67]
+                                behavior                related to K-pop is produced
+                                                        and rapidly shared on SNS
+
+                                                                         ↓
+
+                            Tourist behavioral    •     Degree of desire or plans to                                           Choi et al. [66]
+     Strategic image                                    actually travel to Korea       planning/implementation/enforcement    Kwak et al. [28]
+                                intention                                                                                     Meng et al. [68]
+
+                                     2.4. Theory of Planned Behavior
+                                           The theory of planned behavior explains human behavior and intention as a com-
+                                     bination of three core components: attitude, subjective norms, and perceived behavioral
+                                     control [69–71]. These three core components shape a person’s intention, and behavior is
+                                     determined by the interaction between the intention and the three components. In this
+                                     theory, intention is the willingness to act on a certain behavior. It is the key factor that
+                                     motivates behavior [69–71].
+                                           The theory of planned behavior was an expanded version of the theory of reasoned
+                                     action. The traditional theory of reasoned action described human behavior with only
+Sustainability 2022, 14, 3200                                                                           8 of 30
+
+
+                           two variables: attitude and subjective norms. This theory was widely applied in accounting
+                           for human behaviors including consumer attitude [72–74]. Nonetheless, in order for an
+                           actor to carry out a certain action, it is crucial to ﬁrst understand whether he or she has
+                           the ability or the resources to do it. This is an important determinant for a behavior. The
+                           traditional theory did not fully take this into consideration, and thus received criticism
+                           that it lacked predictive power. To overcome this limitation, Ajzen developed the theory of
+                           planned behavior by adding to the previous theory the perception of controlling factors
+                           that limit human behavior [72–74].
+                                The core components in the theory of planned behavior are attitude, subjective norms,
+                           and perceived behavioral control. The speciﬁcs are as follows: (1) “Attitude” refers to
+                           the actor’s approval or disapproval toward a certain behavior. In other words, attitude
+                           is formed based on the psychological interaction between two variables: whether or
+                           not a certain action brings about a positive (or negative) outcome and how much the
+                           actor values the outcome [69,75–77]; (2) “Subjective norms” refer to the psychological
+                           pressure that an actor feels with regard to observing the social norms. In other words,
+                           they are normative beliefs about how much the reference individuals or groups who are
+                           signiﬁcant to the actor support or approve of the particular behavior. In addition, how
+                           important the actor thinks the reference group’s expectation is plays a role in shaping the
+                           behavior [69,75–77]; and (3) “Perceived behavioral control” pertains to the difﬁculty or
+                           ease of performing a particular action. In other words, behavior is explained as a result
+                           of interaction between how much access the actor believes he or she has to the necessary
+                           resources and opportunities to perform the behavior and how much the actor values them.
+                           Because of this component, the theory of planned behavior is deemed to be one of the most
+                           valid theories ever developed to account for human behaviors and intentions [69,75–77].
+                           In addition, these three components have direct correlations with behavioral intention.
+                           Further, behavioral intention mediates for certain behaviors [69,75].
+                                The following modiﬁcations were made to the theory of planned behavior in this
+                           study: (1) We re-labeled “attitude” as national image. That is, the attitude regarding K-pop
+                           can be seen as the national image of Korea perceived by global viewers (competitiveness
+                           of Korea—the origin of K-pop—and the level of economic and cultural inﬂuence in the
+                           international community). In addition, it includes how consistently the viewers behave
+                           toward Korea, either favorably or unfavorably; (2) “Subjective norm” was re-labeled as SNS
+                           citizenship behavior. That is, the subjective norm of K-pop refers to a person’s perception
+                           that most of their signiﬁcant others support a certain behavior (SNS citizenship behavior).
+                           It also includes the tendency to produce positive information or data about K-pop, and
+                           for the majority to agree/support/understand what they instantly share on SNS; and
+                           (3) We re-labeled “behavioral intention” as tourist behavioral intention. That is, behavioral
+                           intention of K-pop refers to people’s evaluation (thinking or planning to travel to South
+                           Korea in person). This includes the behavioral intention to travel to Korea even if it means
+                           putting up with inconveniences such as expenses/cultural differences/language barri-
+                           ers/trafﬁc/distance. Therefore, to sum up the above descriptions, the ‘theory of planned
+                           behavior’ can be applied as a base theory for analyzing the path for the success factors of
+                           K-pop (image + citizenship behavior + behavioral intention) as follows: the success factors
+                           of K-pop →  national image/SNS citizenship behavior → tourist behavioral intention.
+
+                           2.5. Success Factors of K-Pop
+                                This study reviews previous studies about success factors of K-pop and summarizes
+                           them in Table 3. First, producers, casting, training, and producing/promotion were grouped
+                           together and categorized as the “production system.” Second, social media and contents
+                           were categorized as “social media/contents”.
+Sustainability 2022, 14, 3200                                                                                                              9 of 30
+
+
+                                     Table 3. Success factors of K-pop.
+
+    Categorization and                                                        Description                                     Researcher
+      Classiﬁcation             Variables                                                                                       (Source)
+
+                                                   •    Entertainment companies meticulously preparing to enter the
+                                                        global market by systematizing the entire production process of
+                                                        “casting-training-producing-promotion”
+                                                   •    Entertainment companies meticulously preparing to enter the            Fuhr [78]
+                                Producers               global market by systematizing their production processes from       Lee et al. [79]
+                                                        a long-term perspective                                                 Oh [80]
+                                                                                                                            Shin & Kim [81]
+                                                   •    The scouting method of selecting a small number of trainees
+                                                        among the multitudes of intensively trained candidates, which is
+                                                        deemed a differentiating competitive edge, unique to Korea
+
+                                                   •    Concentrating on discovering raw talent
+                                                   •    Devoting all energy in discovering talent believing that scouting
+                                 Casting                a good raw gemstone is “half-success”                               Shin & Kim [81]
+                                                   •    Actively searching for global talents through overseas auditions
+
+                                                   •    Training the best entertainers through long-term investment
+                                                   •    Entertainment companies performing the role of strong
+    Production system                                   gatekeepers, training only the best of the numerous gemstones
+                                 Training               into idols and stars                                                    Oh [80]
+                                                   •    Entertainment companies risking long-term and large-scale
+                                                        investments for such training
+
+                                                   Producing factors:
+                                                   •    Global sourcing of creative work
+                                                   •    Maximizing the level of perfection by engaging global experts in       Fuhr [78]
+                                                        each creative ﬁeld                                                   Lee et al. [79]
+                                                   •    Dividing labor in the production stage by engaging experts of
+                                                        various nationalities and from varying ﬁelds
+                                Producing/
+                                Promotion          Promotion factors:
+                                                   •    Utilizing the network of local partners
+                                                   •    Minimizing the uncertainty and risk of global expansion through
+                                                        partnerships with local companies, keeping in mind global              Fuhr [78]
+                                                        launching from an early planning stage                               Lee et al. [79]
+                                                   •    Overcoming cultural barriers in a short period of time by
+                                                        releasing a localized album tailored to local markets
+
+                                                   •    Saving cost and time in the process of global expansion by social
+                                                        media channels such as YouTube, Facebook, and Twitter                  Jung [82]
+                                                   •    Saving cost and time necessary for global expansion, owing to          Jung [83]
+                                                        the contagious nature of the platforms, where word-of-mouth
+                               Social media                                                                                    Jung [84]
+                                                        travels fast                                                     Marinescu & Balica [85]
+                                                   •    Entertainment companies recognizing social media as a key            Min et al. [86]
+                                                        platform for K-pop consumption; they actively use social media         Sung [87]
+                                                        platforms as a distribution channel and produce suitable content
+  Social media/contents
+                                                   •    K-pop idols constantly captivating global consumers by
+                                                        transforming themselves, based on their competitiveness in
+                                                        vocals, choreography, and visuals
+                                                   •    Obtaining universal popularity that transcends nationalities by   Doré & Pugsley [88]
+                                                        fusing Western pop style with easy melodies suited for                  Kim [14]
+                                 Contents               Eastern sentiment                                                    Oh & Lee [89]
+                                                   •    Providing a splashy spectacle by including a regimented group       Parc, Messerlin,
+                                                        dance and a point dance                                               & Moon [90]
+                                                   •    Constantly transforming through sensational fashion and styles
+                                                        for new releases
+Sustainability 2022, 14, 3200                                                                          10 of 30
+
+
+                           2.6. National Image
+                                National image has been researched in diverse ﬁelds of study. It is a cognitive repre-
+                           sentation that a person holds of a given country, and it can be viewed as a level of trust in
+                           the country [91]. It is also deﬁned as collective expressions of perceptions and judgments
+                           of a country by overseas citizens [92]. As the market competition became intensiﬁed due to
+                           globalization, the concept of national image has become more important, and it is often
+                           used as a signiﬁcant factor in consumer behavior studies [93–95].
+                                Meanwhile, national image cannot be seen as an absolute and objective factor because
+                           it varies depending on a person’s subjective perception. That is, the evaluator’s emotional
+                           and subjective attitude has a great inﬂuence [92,96]. However, consumers who have little
+                           or no background knowledge about a certain product have a strong tendency to evaluate
+                           products based on the national image of the country of origin. In addition, if the image of
+                           a country is positive, people also view companies from the country positively [94,97,98].
+                           In this study, we deﬁne “national image” as competitiveness and level of economic and
+                           cultural inﬂuence that Korea (the origin country of K-pop) has in the global community.
+
+                           2.7. SNS Citizenship Behavior
+                                SNS citizenship behavior is a concept that applies organizational citizenship behavior
+                           to SNS [67,99]. Organizational citizenship behavior is a voluntary behavior that promotes
+                           the organization’s efﬁciency regardless of ofﬁcial incentives from the organization, such as
+                           reacting in a timely fashion, assisting colleagues, and avoiding confrontations [100].
+                                Today, there is online community citizenship behavior similar to SNS citizenship
+                           behavior. Online community refers to the group of people who interact online around their
+                           shared interest. However, SNS differs from online community in that individual users
+                           form a separate network [101]. Previous studies have deﬁned SNS citizenship behavior
+                           as pro-social and responsible behavior that members of SNS voluntarily perform outside
+                           their own roles [67,99]. In this study, we deﬁne “SNS citizenship behavior” as the level of
+                           generating good information or data about K-pop and sharing it on SNS in a timely manner.
+
+                           2.8. Tourist Behavioral Intention
+                                In the tourism industry, behavioral intention is used in reference to the intention to
+                           visit a tourist site or revisit a certain place [102,103]. Here, behavioral intention is a plan to
+                           achieve a particular goal, and it is a main predictor of consumer behavior. In other words,
+                           it can be said to be consumers’ willingness or belief to carry out their future plan after they
+                           form an opinion about a certain product or service [104,105].
+                                Tourist behavioral intention is a person’s intention to visit a certain place, and it is the
+                           probability of carrying out the plan or belief. In other words, a person’s decision to visit
+                           a tourist site based on a personal belief leads to an actual visit [17,28,66]. As such, tourist
+                           behavioral intention in the tourism industry is the decision made based on the willingness
+                           to visit a particular place. Therefore, the main goal of tourist site marketing is to encourage
+                           consumers to set a tourist behavioral intention [17,28,66]. In this study, we deﬁne “tourist
+                           behavioral intention” as a thought or plan to travel to Korea in person.
+
+                           2.9. Relationship between Key Variables
+                                We specify the relationship between the key variables, as shown in Table 4. Accord-
+                           ingly, we examined previous studies.
+Sustainability  2022,  14, 3200                                                                                                                                       11 of 30
+
+
+                                            Table 4.   Relationship between the key variables (previous studies).
+
+                                                                                                                                                          Researcher
+          Variables               Path             Variables                                          Description
+                                                                                                                                                           (Source)
+
+                                                                         •      Attributes of K-pop (e.g., topic and content, visual and
+                                                                                acoustic effects, and cultural interest) have a positive (+)           Suh & Yang [106]
+                                                                                effect on national image
+
+                                                                         •      K-pop, movies, and dramas have a positive (+) effect on
+                                                                                national image                                                             Lee [107]
+
+                                                                         •      K-pop image has a positive (+) effect on national image                 Wen & Cha [65]
+
+                                                                         •      In terms of K-pop production, the degree of structured
+                                                                                processing and systematization has a positive (+) effect on                Kim [108]
+                                                                                national image (producers)
+
+   Success factors of K-pop        →            National image           •      In terms of casting, discovering talents who are competent,
+                                                                                charming, and highly attractive has a positive (+) effect on       Han, Chen, & Rhee [109]
+                                                                                national image (casting)
+
+                                                                         •      In training the talents into K-pop stars, the trainer’s image
+                                                                                has a positive (+) effect on the self-image of the                         Kim [110]
+                                                                                trainees (training)
+
+                                                                         •      Diverse marketing and promotion for K-pop has a positive
+                                                                                (+) effect on national image (producing/promotion)                     Jang & Jung [111]
+
+                                                                         •      Social media has a positive (+) effect on national image
+                                                                                (social media)                                                          Li & Park [112]
+
+                                                                         •      Optimized K-pop contents have a positive (+) effect on
+                                                                                national image (contents)                                             Moon & Park [113]
+
+                                                                         •      Research on “success factors of K-pop and effective strategy
+                                                                                for global launch” was conducted
+                                                                         •      Two contributing factors of K-pop’s successful global launch
+                                                                                were found:  
+1 Competitiveness of K-pop contents (contents)
+                                                                                and 
+2  Social media strategy
+                                                                         •      Three competitive edges of K-pop contents were found:
+                                                                                
+1 Strategy to localize globally (producing/promotion),
+                                                                                
+2 Idol training system (casting), and 
+3 Competitiveness of
+                                                                                                                                                           Kim [31]
+                                                                                K-pop stars (training)
+                                                                         •      The greatest charm of K-pop is the performance of idol
+                                                                                groups (contents)
+                                                                         •      The most effective strategy of K-pop promotion is social
+                                                                                media (social media)
+                                                                         •      Voluntary citizenship behavior of SNS users was reported to
+                                                                                be a success factor of K-pop, as the information was shared
+                                                                                in real time with global fans
+
+   Success factors of K-pop        →        SNS citizenship behavior
+                                                                         •      Research on “contributing factors of K-pop’s global spread”
+                                                                                was conducted
+                                                                         •      Four contributing factors of K-pop’s global spread were
+                                                                                identiﬁed: 
+1 Globalization strategy (targeting the global
+                                                                                market), 
+2 Evolution of management system (advent of
+                                                                                corporate type entertainment companies, structured
+                                                                                organization/specialization), 
+3  Training system (of
+                                                                                producing stars through training, open audition programs of
+                                                                                entertainment companies/broadcasting companies), and       
+4
+                                                                                Globalization of production (collaboration on production                    Jun [30]
+                                                                                with overseas experts)
+                                                                         •      Three contributing factors of K-pop contents’ global spread
+                                                                                were found:  
+1 Idol singers’ authentic lyrics and story-telling
+                                                                                albums (empathy formation),    
+2 Visual elements, such as
+                                                                                singing and dancing (performance), and    
+3 Personas of idol
+                                                                                singers (e.g., appearance and talent)
+                                                                         •      SNS citizenship behavior was reported as a success factor of
+                                                                                K-pop’s global spread, as K-pop global fans naturally shared
+                                                                                the information on SNS
+Sustainability  2022,  14, 3200                                                                                                                                       12 of 30
+
+
+                                            Table 4.   Cont.
+
+                                                                                                                                                          Researcher
+          Variables               Path             Variables                                          Description
+                                                                                                                                                           (Source)
+
+                                                                         •      Brand image perceived by consumers has a statistically              Nyadzayo, Matanda, &
+                                                                                signiﬁcant correlation with brand citizenship behavior                    Ewing [114]
+                                                                                                                                                         Hoang [115]
+        National image             →        SNS citizenship behavior
+                                                                         •      Company’s image perceived by customers has a statistically
+                                                                                signiﬁcant correlation with customers’ citizenship behavior            Ahn & Park [116]
+
+                                                                                                                                                    Alvarez & Campo [117]
+                                                                         •      National image has a positive (+) effect on behavioral and          Kim, Kim, & Lee [118]
+                                                                                purchase intentions                                                Kim, Kwon, & Bae [119]
+                                                                                                                                                    Suh & Yang (2012) [106]
+        National image             →           Tourist behavioral
+                                                    intention            •      Positive attitude toward Hallyu (Korean Wave) has a positive
+                                                                                (+) effect on national image                                        Kim, Kim, & Choi [120]
+                                                                         •      Consequently, national image has a positive (+) effect on              Lee & Kim [121]
+                                                                                                                                                     Lee & Lockshin [122]
+                                                                                tourist behavioral intention
+
+                                                                         •      Consumers’ citizenship behavior has a positive (+) effect on
+                                                                                consumer satisfaction and commitment
+                                                                         •      In their turn, consumer satisfaction and customer                   Kim, Kim, & Cha [123]
+                                                                                commitment have a positive (+) effect on revisit intention
+   SNS citizenship behavior        →           Tourist behavioral
+                                                    intention
+                                                                         •      Civic consciousness, such as volunteering activity, meeting
+                                                                                attendance, and tolerance of inconvenience, has a positive (+)        Kwon & Song [124]
+                                                                                effect on behavioral intention
+
+                                            2.10. Hypotheses
+                                                   We established the following hypotheses based on the relationships between the key
+                                            variables in Table 4 (previous studies).
+                                            Hypotheses:
+                                            Production system
+
+                                            Hypothesis 1a (H1a).            Producers exert a positive (+) effect on national image.
+
+                                            Hypothesis 1b (H1b).             Casting exerts a positive (+) effect on national image.
+
+                                            Hypothesis 1c (H1c).            Training exerts a positive (+) effect on national image.
+
+                                            Hypothesis 1d (H1d).             Producing/promotion exerts a positive (+) effect on national image.
+
+                                            Social media/contents
+
+                                            Hypothesis 2a (H2a).            Social media exerts a positive (+) effect on national image.
+
+                                            Hypothesis 2b (H2b).             Contents exert a positive (+) effect on national image.
+
+                                            Production system
+
+                                            Hypothesis 3a (H3a).            Producers exert a positive (+) effect on SNS citizenship behavior.
+
+                                            Hypothesis 3b (H3b).             Casting exerts a positive (+) effect on SNS citizenship behavior.
+
+                                            Hypothesis 3c (H3c).            Training exerts a positive (+) effect on SNS citizenship behavior.
+
+                                            Hypothesis 3d (H3d).             Producing/promotion exerts a positive (+) effect on SNS                 citizenship behavior.
+
+                                            Social media/contents
+Sustainability 2022, 14, x FOR PEER REVIEW                                                          13 of 31 
+ 
+
+                           Social media/contents 
+
+                           Hypothesis 4a (H4a). Social media exerts a positive (+) effect on SNS citizenship behavior. 
+     Sustainability 2022, 14, 3200                                                               13 of 30
+
+                           Hypothesis 4b (H4b). Contents exert a positive (+) effect on SNS citizenship behavior. 
+                             Hypothesis 4a (H4a). Social media exerts a positive (+) effect on SNS citizenship behavior.
+                           Hypothesis 5 (H5). National image exerts a positive (+) effect on SNS citizenship behavior. 
+                             Hypothesis 4b (H4b). Contents exert a positive (+) effect on SNS citizenship behavior.
+                           Hypothesis 6 (H6). National image exerts a positive (+) effect on tourist behavioral intention. 
+                             Hypothesis 5 (H5). National image exerts a positive (+) effect on SNS citizenship behavior.
+                           Hypothesis 7 (H7). SNS citizenship behavior exerts a positive (+) effect on tourist behavioral 
+                           intention.Hypothesis 6 (H6). National image exerts a positive (+) effect on tourist behavioral intention.
+
+                             Hypothesis 7 (H7). SNS citizenship behavior exerts a positive (+) effect on tourist behavioral intention.
+                           3. Methods 
+                           3.1.3. Research Methods Model 
+                             3.1.We Research designed Model our research model based on theoretical concepts and the extant liter-
+                           ature onWe our designed main  ourvariables, research as model discussed based on above theoretical (see  conceptsFigure 1). and As the Figure extant  literature1 shows, our 
+                           studyon our analyzes main variables,  empirically as discussed the  effects above  of  (see the Figure K-pop 1 ). success As Figure  factors 1 shows,  as  our listed study  on  South 
+                             analyzes empirically the effects of the K-pop success factors as listed on South Korea’s
+                           Korea’s national image and on global SNS citizenship behavior in the context of the three 
+                             national image and on global SNS citizenship behavior in the context of the three theories
+                           theoriesmentioned mentioned (SERVQUAL, (SERVQUAL, image theory, image and theory, theory and of planned theory behavior). of planned Ultimately, behavior). our Ulti-
+                           mately,model our assesses model how assess SNSes citizenship how SNS behavior citizenship inﬂuences behavior national influences image and national how they image both  and 
+                           howinﬂuence they both tourist influence behavioral tourist intention. behavioral intention. 
+
+
+                                                                                                    
+
+                           FigureFigure 1. Research 1. Research model. model. 
+
+                           3.2.3.2. Variable Variable Measurements Measurements 
+                               TableTable 5 5  encapsulates the the speciﬁc specific measurement measurement items items of each of variable each variable we surveyed. we surveyed. We  
+                             based the survey categories and items on previous studies, which we then modiﬁed and
+                           We based the survey categories and items on previous studies, which we then modified 
+                             adapted according to our purpose. There are a total of 42 survey items for the variables,
+                           andmeasured adapted on according a ﬁve-point to  Likertour purpose. type scale There (1 = Notare ata  all,total 5  =of Very 42 survey much). items for the varia-
+                           bles, measured on a five-point Likert type scale (1 = Not at all, 5 = Very much). 
+                               
+Sustainability  2022,  14, 3200                                                                                                                                       14 of 30
+
+
+                                            Table 5.   Survey items.
+
+                                                                                                                                                            Researcher
+                     Variables                          Operational Deﬁnition                               Measurement Item
+                                                                                                                                                              (Source)
+                                                                                        1. Systematization of production process
+                                                                                        2. Preparation to enter the overseas market from a
+                                                          Degree of systematic          long-term perspective                                                Chang [51]
+                                                     processes and systematization
+                                 Producers                                              3. Honing of skills from the planning stage to target the         Choi & Park [52]
+                                                      related to K-pop production                                                                             Kim [53]
+                                                                                        global market
+                                                                                        4. Systematization of the entire production process
+                                                                                        forming promotion
+                                                                                        1. Focus of efforts on talent discovery
+                                                                                        2. Selection of trainees through various channels,
+                                                                                        including ofﬁcial auditions and the recommendations of               Chang [51]
+                                                      Degree of various efforts to
+                                  Casting                                               acquainted celebrities                                            Choi & Park [52]
+                                                         discover K-pop talent                                                                                Kim [53]
+                                                                                        3. Prioritization of talent and hidden potential in                   Kim [61]
+                                                                                        evaluations
+                                                                                        4. Active discovery of overseas talent through global
+                                                                                        auditions
+   Production system
+                                                                                        1. Korean agencies performing the role of powerful
+                                                                                        gatekeepers
+                                                                                        2. Dedicated teams of experts in Korea providing training
+                                                       Degree of comprehensive          focused on singing, dancing, English, etc.
+                                  Training                 training to develop                                                                               Chang [51]
+                                                                                        3. Harsh training of trainees in a continuous survival style
+                                                              K-pop talent
+                                                                                        4. Assigning roles such as singing, acting, and
+                                                                                        choreography based on the members’ strongest talents
+                                                                                        and combining them to create the best synergy
+                                                                                        1. Maximizing the quality of K-pop albums by involving
+                                                                                        the world’s premier experts in each creative ﬁeld
+                                                        Degree of production of         2. Overcoming cultural barriers in a short time period by
+                                                        high-quality albums and         releasing albums specialized for local markets
+                            Producing/promotion       wide promotions suited for                                                                             Chang [51]
+                                                                                        3. Optimizing lyrics, music videos, fashion, etc., for local
+                                                      the global market in relation
+                                                                to K-pop                cultures in album production
+                                                                                        4. Wide utilization of K-pop recorded in the local
+                                                                                        language for local dramas, movies, commercials, etc.
+                                                                                        1. Use of social media such as YouTube, Facebook,
+                                                                                        and Twitter
+                                                                                        2. Effectively leveraging the infectious nature of social
+                                                       Degree to which real-time
+                                                                                        media that enables quick word-of-mouth for                        An & Jeong [62]
+                                                     information on various K-pop
+                                                                                        overseas expansion                                                   Chang [51]
+                                Social media             contents is provided or
+                                                                                                                                                          Cho & Sim [63]
+                                                      communicated through SNS          3. Effectively sharing news about performances and
+                                                                                        recent updates through social media
+                                                                                        4. Expanding emotional interactions by directly
+                                                                                        communicating with overseas fans via social media
+          Social
+     media/contents                                                                     1. Fusion of Western pop styles with easy melodies that
+                                                                                        suit Eastern sentiments
+                                                          Degree of additional          2. Securing universal mass appeal to gain popularity
+                                                        originality and efforts to      across nationalities                                                 Chang [51]
+                                  Contents            secure popular appeal after       3. Providing showy spectacles through highly                    Lee, Kim, & Oh [64]
+                                                                                                                                                          Wen & Cha [65]
+                                                         optimizing a variety of        synchronized choreography and point dances
+                                                             K-pop contents
+                                                                                        4. Constantly varying sensuous fashions and styles
+                                                                                        whenever a new song is released
+                                                                                        1. Korea’s national income and education level are high
+                                                                                        2. Korea’s national conditions are stable
+                                                                                        3. Korea’s level of technology is excellent
+                                                         Level of economic and          4. Korea’s economic inﬂuence is large
+                                                        cultural inﬂuence in the
+                  National image                        international society and       5. Korean culture is open                                          Choi et al. [66]
+                                                     competitiveness of Korea, the
+                                                                                        6. Korean culture is appealing
+                                                            source of K-pop
+                                                                                        7. Korean culture is of a high standard
+                                                                                        8. Korean culture is unique and preserves tradition
+                                                                                        9. Korean culture has a long history and is likeable
+Sustainability  2022,  14, 3200                                                                                                                                       15 of 30
+
+
+                                            Table 5.   Cont.
+
+                                                                                                                                                            Researcher
+                     Variables                          Operational Deﬁnition                               Measurement Item
+                                                                                                                                                              (Source)
+                                                                                        1. Sharing and providing K-pop-related information to
+                                                                                        people around me through SNS
+                                                                                        2. Sharing positive opinions about K-pop-related
+                                                                                        information to people around me through SNS
+                                                         Degree to which good           3. Always contemplating how to share K-pop-related
+                                                        information or material         information to people around me through SNS
+             SNS citizenship behavior                                                                                                                      Kim et al. [67]
+                                                      related to K-pop is produced      4. Extracting, processing, and sharing the core contents of
+                                                       and rapidly shared on SNS        K-pop-related information with people around me
+                                                                                        through SNS
+                                                                                        5. Always contemplating whether K-pop-related
+                                                                                        information can be helpful to people around me
+                                                                                        through SNS
+                                                                                        1. Will travel to Korea even if it is expensive
+                                                                                        2. Will travel to Korea even if there are cultural
+                                                      Degree of desire or plans to      differences and a language barrier                                 Choi et al. [66]
+           Tourist behavioral intention                                                                                                                   Kwak et al. [28]
+                                                        actually travel to Korea        3. Will travel to Korea even if transportation                    Meng et al. [68]
+                                                                                        is inconvenient
+                                                                                        4. Will travel to Korea even if it is far
+
+                                            3.3. Respondents
+                                                   The respondents are global viewers who have listened to K-pop on TV, radio, or the
+                                            Internet at least once, watched K-pop videos on YouTube at least once, and searched for
+                                            information related to K-pop on SNS at least once. We conducted two rounds of surveys
+                                            from October 2019 to October 2020 through the global research agencies Entrust Survey
+                                            (http://entrustsurvey.com, accessed on 22 January 2022) and Netpoint Enterprise Inc.
+                                            (http://www.netpoint.co.kr/, accessed on 22 January 2022). The surveys were provided in
+                                            English and French. The respondents are from eight countries: the Philippines, Singapore,
+                                            Australia, the UK, France, the US, Canada, and South Africa. Our ﬁnal sample includes
+                                            valid responses from             1247 participants. Table 6 presents the demographic statistics of
+                                            the respondents.
+
+                                            Table 6.   Demographic characteristics (N = 1247).
+
+                                                                                        Item                                                 Frequency               %
+                                                                                                             Male                                618               49.6
+                                                            Gender                                          Female                               629               50.4
+                                                                                                              20s                                308               24.7
+                                                               Age                                            30s                                326               26.1
+                                                                                                              40s                                311               24.9
+                                                                                                              50s                                302               24.2
+                                                                                                   High school graduate                          313               25.1
+                                                                                                Technical college graduate                       276               22.1
+                                                           Education                                  College graduate                           515               41.3
+                                                                                                Graduate school graduate                         143               11.5
+                                                                                                        Under $1000                              270               21.7
+                                                                                                         $1000–$2000                             268               21.5
+                                                  Monthly income (Mean)                                  $2001–$3000                             205               16.4
+                                                                                                         $3001–$4000                             155               12.4
+                                                                                                         $4001–$5000                             151               12.1
+                                                                                                          over $5000                             198               15.9
+                                                                                                         Philippines                             150               12.0
+                                                                                                          Singapore                              156               12.5
+                                                                                                          Australia                              161               12.9
+                                                          Nationality                                         UK                                 150               12.0
+                                                                                                            France                               170               13.6
+                                                                                                              US                                 150               12.0
+                                                                                                           Canada                                160               12.8
+                                                                                                        South Africa                             150               12.0
+Sustainability 2022, 14, 3200                                                                          16 of 30
+
+
+                           3.4. Data Analysis
+                                We used four statistical programs, SPSS, SmartPLS GSCA Pro, and JASP, for the
+                           analysis. The procedure was as follows: ﬁrst, a frequency analysis to examine demographic
+                           characteristics; second, a reliability analysis using Cronbach’s alpha to test the reliability of
+                           the metrics; third, a factor analysis to test the validity of the metrics; fourth, a correlation
+                           analysis to examine the closeness (i.e., correlation) of the variables; and ﬁfth, a regression
+                           analysis and structural equation model (SEM) analysis to test the association (relationship)
+                           between key variables in this study.
+
+                           4. Results
+                           4.1. Reliability and Validity
+                                We examined the reliability and validity of all the variables in relation to the survey
+                           items. Table 7 presents our results. Cronbach’s alpha for all variables showed a minimum
+                           of 0.847, indicating very high reliability. Moreover, the loading of each factor was a
+                           minimum of 0.732, indicating high validity. The average variance extracted (AVE) was at
+                           least 0.611. A multicollinearity analysis was performed to conﬁrm the properties closely
+                           related to the independent variables; the variance inﬂation factor (VIF) was 4.019 or less,
+                           indicating no problems. Accordingly, the reliability and validity of the variables of the
+                           study were conﬁrmed.
+
+                           Table 7. Variable reliability and validity.
+
+                                                  Convergent Validity                          Multicollinearity
+      Variable            Item                                                  Cronbach’s Alpha
+                                      Outer Loadings Composite Reliability AVE                      VIF
+                       Producers1         0.856                                                     2.271
+                       Producers2         0.863                                                     2.252
+      Producers                                           0.921        0.745        0.886
+                       Producers3         0.878                                                     2.447
+                       Producers4         0.856                                                     2.242
+                        Casting1          0.843                                                     2.059
+                        Casting2          0.860                                                     2.239
+       Casting                                            0.907        0.710        0.864
+                        Casting3          0.849                                                     2.083
+                        Casting4          0.818                                                     1.832
+                        Training1         0.836                                                     1.880
+                        Training2         0.836                                                     1.934
+       Training                                           0.897        0.686        0.847
+                        Training3         0.794                                                     1.765
+                        Training4         0.845                                                     1.994
+                    Producing/promotion1  0.835                                                     1.964
+                    Producing/promotion2  0.848                                                     2.109
+  Producing/promotion                                     0.907        0.710        0.864
+                    Producing/promotion3  0.850                                                     2.139
+                    Producing/promotion4  0.837                                                     1.996
+                       Social media1      0.859                                                     2.370
+                       Social media2      0.852                                                     2.292
+       Social                                             0.919        0.741        0.884
+       media           Social media3      0.872                                                     2.402
+                       Social media4      0.860                                                     2.180
+                        Contents1         0.810                                                     1.885
+                        Contents2         0.862                                                     2.227
+      Contents                                            0.909        0.714        0.867
+                        Contents3         0.850                                                     2.099
+                        Contents4         0.858                                                     2.151
+Sustainability 2022, 14, 3200                                                                          17 of 30
+
+
+                           Table 7. Cont.
+
+                                                  Convergent Validity                          Multicollinearity
+      Variable            Item                                                  Cronbach’s Alpha
+                                      Outer Loadings Composite Reliability AVE                      VIF
+                      National image1     0.740                                                     2.116
+                      National image2     0.748                                                     2.119
+                      National image3     0.787                                                     2.283
+                      National image4     0.805                                                     2.367
+    National image    National image5     0.732           0.934        0.611        0.920           1.926
+                      National image6     0.810                                                     2.550
+                      National image7     0.819                                                     2.693
+                      National image8     0.784                                                     2.447
+                      National image9     0.805                                                     2.347
+                      SNS citizenship
+                                          0.903                                                     3.576
+                        behavior1
+                      SNS citizenship
+                                          0.902                                                     3.559
+                        behavior2
+                      SNS citizenship
+ SNS citizenship behavior                 0.916           0.957        0.816        0.944           3.985
+                        behavior3
+                      SNS citizenship
+                                          0.913                                                     4.019
+                        behavior4
+                      SNS citizenship
+                                          0.883                                                     3.172
+                        behavior5
+
+                     Tourist behavioral   0.910                                                     3.341
+                        intention1
+
+                     Tourist behavioral   0.921                                                     3.776
+   Tourist behavioral   intention2                        0.947        0.817        0.925
+      intention
+                     Tourist behavioral   0.869                                                     2.557
+                        intention3
+
+                     Tourist behavioral   0.914                                                     3.493
+                        intention4
+                           Note: Survey items: Likert five-point scale (1 = not at all, 5 = very much); Outer loadings > 0.70; Composite reliability
+                           > 0.70; Average variance extracted (AVE) > 0.5; Cronbach’s alpha > 0.70; Variance inflation factor (VIF) < 10.0.
+
+                           4.2. Common Method Bias
+                                The respondents are 1247 global viewers (eight countries) who have listened to K-pop
+                           on TV, radio, or the Internet at least once, watched K-pop videos on YouTube at least once,
+                           and searched for information related to K-pop on SNS at least once. In other words, when
+                           the independent variable and the dependent variable are measured in the same way, and
+                           when the independent variable and the dependent variable are measured from the same
+                           respondent, the case where the correlation value between the two variables is inﬂated more
+                           than the actual result, is the same. This is called common method bias [125,126]. This means
+                           that there may be cases in which a total of 9 variables (factors) used in this study are inﬂated
+                           more positively or negatively than the actual answer to the questionnaire. In particular,
+                           when responding to a questionnaire intentionally, in order to maintain consistency, there is
+                           a possibility that the correlation between variables may be distorted because the respondent
+                           thinks too much before responding.
+                                Therefore, in this study, principal component analysis was performed to solve com-
+                           mon method bias. The single-factor test suggested by Podsakoff, MacKenzie, Lee, and
+                           Podsakoff [127] was performed. As a result of factor analysis, 5 factors with eigenvalues
+                           greater than 1 were extracted. Among them, the accumulation (%) of the ﬁrst factor ac-
+                           counted for 24.591% (total accumulation: 66.437%). Since this is less than half of the total
+                           cumulative (%) of 66.437%, it can be seen that the distortion caused by the common method
+                           bias is not large.
+
+                           4.3. Correlation Analysis
+                                Table 8 shows the results of the discriminant validity analysis (correlation analysis).
+                           We examined whether the AVE square root exceeded the correlation coefﬁcient for each
+                           variable. The results indicate that the AVE square root exceeded all correlation coefﬁcient
+Sustainability 2022, 14, 3200                                                                          18 of 30
+
+
+                           values except one. Thus, we partially conﬁrmed the discriminant validity of the variables
+                           in our study.
+
+                           Table 8. Correlation analysis.
+
+                                                                                           SNS       Tourist
+       Variable      Producers Casting  Training Producing  Social  Contents   National Citizenship Behavioral
+                                                            Media              Image     Behavior   Intention
+      Producers        0.863      -        -        -         -        -         -          -          -
+       Casting         0.770    0.843      -        -         -        -         -          -          -
+       Training        0.781    0.799     0.828     -         -        -         -          -          -
+      Producing        0.766    0.807     0.800    0.842      -        -         -          -          -
+      Social media     0.724    0.705     0.740    0.745    0.861      -         -          -          -
+       Contents        0.725    0.713     0.743    0.766    0.784     0.845      -          -          -
+     National image    0.550    0.544     0.525    0.563    0.517     0.533     0.782       -          -
+ SNS citizenship behavior 0.400 0.498     0.432    0.482    0.380     0.424     0.423      0.903       -
+ Tourist behavioral intention 0.434 0.471 0.447    0.481    0.436     0.445     0.659      0.497      0.904
+                           Note: The bold diagonal lines indicate the square root of the AVE.
+
+                           4.4. Hypothesis Testing
+                                We use SPSS, SmartPLS, GSCA Pro, and JASP for our regression and SEM analysis.
+                           The structural equation model (SEM) has the following three approaches: (1) There are CB
+                           (covariance based) SEMs such as AMOS, LISREL, MPlus, JASP, and jamovi. In particular,
+                           JASP and jamovi are open-source statistical packages with an easy-to-use graphical user
+                           interface (GUI). Since it is implemented based on R statistical programming language, it
+                           allows the user to use all the powerful and ﬂexible functions in R; (2) There are PLS (partial
+                           least squares) based SEMs such as SmartPLS, VisualPLS, and PLS-Graph. Among them,
+                           SmartPLS can 
+1 generate structural equation and pathway models in a short period of time,
+                           
+2 easily reﬂect formative measurement models and reﬂective measurement models, 
+3 and
+                           easily analyze mediating effects and moderating effects [128–131]; and (3) There is general-
+                           ized structured component analysis (GSCA) based SEM  such as VisualGSCA and GSCA
+                           Pro. In particular, while GSCA SEM is similar to PLS SEM, it has the following differences:
+                                
+1 PLS is limited-information, whereas GSCA is full-information, 
+2 The concept of
+                           overall model ﬁt is not well applicable to PLS, 
+3 GSCA is more ﬂexible than PLS [132–134].
+                           Despite their theoretical differences, PLS and GSCA will likely produce similar estimates
+                           of parameters in unidimensional, unidirectional and unconstrained component mod-
+                           els [135,136], although GSCA still tends to provide smaller standard errors and conﬁdence
+                           intervals [137]. Despite their theoretical differences, PLS and GSCA will likely produce
+                           similar estimates of parameters in unidimensional, unidirectional and unconstrained com-
+                           ponent models [135,136], although GSCA still tends to provide smaller standard errors and
+                           conﬁdence intervals [137]. Hence, this study intends to conduct SEM analysis with three
+                           approaches: CB SEM with JASP, PLS SEM with SmartPLS, and GSCA SEM with GSCA Pro.
+                                In SmartPLS, resampling is performed 500 times using bootstrapping [28,29,138–141].
+                           Bootstrapping, as a non-parametric procedure, can assess the statistical significance of diverse
+                           partial least squares-SEM results [28,29,138–141]. In addition, the author would like to conduct
+                           regression analysis using the SPSS statistical program. Regression analysis is a statistical
+                           technique that estimates the effect of one or more independent variables on the dependent
+                           variable. In other words, it is used for statistical analysis to identify the relationship between
+                           the variables [17,142,143]. Accordingly, this study will conduct statistical analysis with four
+                           approaches, as the objective is to confirm the completeness (accuracy/completion) of the
+                           study model design and maximize the generalization possibility of hypothesis test, that is,
+                           statistical analysis. Tables 9 and 10, and Figure 2 present our results.
+                                According to our SPSS regression results, we observe the following. (1) Four K-pop
+                           factors have a statistically signiﬁcant positive inﬂuence on national image: K-pop producers,
+                           casting, producing/promotion, and contents. However, two factors, K-pop training and
+                           social media, do not have a statistically signiﬁcant inﬂuence on national image. (2) Three
+Sustainability 2022, 14, 3200                                                                          19 of 30
+
+
+                           factors have a statistically signiﬁcant positive inﬂuence on SNS citizenship behavior: K-pop
+                           casting, producing/promotion, and contents. However, the remaining three factors, K-pop
+                           producers, training, and social media, do not have any statistically signiﬁcant effect on SNS
+                           citizenship behavior. (3) National image has a statistically signiﬁcant positive inﬂuence on
+                           SNS citizenship behavior. Moreover, national image and SNS citizenship behavior both
+                           have a statistically signiﬁcant positive inﬂuence on tourist behavioral intention.
+                                From the SEM  results in SmartPLS, we observe the following. (1) The same four
+                           K-pop factors have a statistically signiﬁcant positive inﬂuence on national image: K-pop
+                           producers, casting, producing/promotion, and contents; and the same two factors, training
+                           and social media, have no statistically signiﬁcant inﬂuence on national image. (2) In the
+                           SEM, only two factors, K-pop casting and K-pop producing/promotion, have a statistically
+                           signiﬁcant positive inﬂuence on SNS citizenship behavior, while the remaining three factors
+                           have no statistically signiﬁcant effect on it (K-pop training, social media, and contents). And
+                           producers had a statistically negative impact on SNS citizenship behavior. (3) Here again,
+                           national image has a statistically signiﬁcant positive inﬂuence on SNS citizenship behavior
+                           and both national image and SNS citizenship behavior have a statistically signiﬁcant
+                           positive inﬂuence on tourist behavioral intention.
+
+                           Table 9. Hypothesis testing.
+
+                                    SPSS               SmartPLS            GSCA Pro              JASP
+            Path
+                              β      t      H     β       t     H      β      t      H     β      t      H
+                                    4.187               3.327                3.054               4.217
+  H1a            →     NI    0.175          O    0.170          O     0.171          O    0.175          O
+        Producers                    ***                 **                   **                  ***
+                                    2.814                                    2.723               2.902
+        Casting  →     NI    0.124          O    0.125  2.440 * O     0.128          O    0.128          O
+  H1b                                **                                       **                  **
+  H1c   Training →     NI    0.000 −0.001   X    0.004  0.090   X     0.001  0.022   X    −0.004 −0.099  X
+        Producing/                  3.834               3.161                3.462               3.920
+  H1d            →     NI    0.177          O    0.178          O     0.180          O    0.181          O
+        Promotion                    ***                 **                   **                  ***
+  H2a    Social  →     NI    0.072  1.773   X    0.074  1.785   X     0.073  1.698   X    0.072  1.770   X
+         media
+                                    2.983                                                        2.927
+        Contents →     NI    0.125          O    0.123  2.497 * O     0.123 2.412 *  O    0.122          O
+  H2b                                **                                                           **
+                                      2
+             -                 R = 0.605, R = 0.367,      -                   -                   -
+                              F = 119.589 (p = 0.000)
+                      SNS
+  H3a            →          −0.060 −1.341   X    −0.093 2.001 * X    −0.094 −1.918   X    −0.096 −2.160  X
+        Producers      CB
+                                    6.876               5.521                5.017               6.520
+        Casting  →    SNS    0.326          O    0.301          O     0.301          O    0.303          O
+  H3b                  CB            ***                 ***                 ***                  ***
+                      SNS
+  H3c   Training →           0.001  0.027   X    −0.002 0.035   X     0.001  0.021   X    0.003  0.066   X
+                       CB
+                      SNS           4.552               3.029                2.653               3.857
+        Producing/ →         0.226          O    0.190          O     0.191          O    0.189          O
+  H3d   Promotion      CB            ***                 **                   **                  ***
+                      SNS
+  H4a    Social  →          −0.059 −1.346   X    −0.069 1.286   X    −0.074 −1.276   X    −0.073 −1.701  X
+         media         CB
+                      SNS
+        Contents →           0.106 2.357 *  O    0.082  1.507   X     0.083  1.627   X    0.081  1.841   X
+  H4b                  CB
+                                      2
+             -                 R = 0.519, R = 0.270,      -                   -                   -
+                               F = 76.312 (p = 0.000)
+                      SNS          16.264               5.280                5.158               6.589
+  H5      NI     →           0.419          O    0.197          O     0.196          O    0.197          O
+                       CB            ***                 ***                 ***                  ***
+                               R = 0.419, R2 = 0.175,
+                              F = 264.527 (p = 0.000)
+                                   24.270               21.922              21.000               24.214
+  H6      NI     →     TBI   0.542          O    0.545          O     0.546          O    0.541          O
+                                     ***                 ***                 ***                  ***
+                                   12.087               9.918                9.172               12.029
+  H7    SNS CB   →     TBI   0.270          O    0.266          O     0.266          O    0.269          O
+                                     ***                 ***                 ***                  ***
+                                                                                           CFI = 0.959, GFI = 0.908,
+                                      2
+             -                 R = 0.699, R = 0.489, SRMR = 0.037, NFI = 0.898 SRMR = 0.027, GFI = 0.997 NFI = 0.941, TLI = 0.955,
+                              F = 594.543 (p = 0.000)                                         SRMR = 0.028,
+                                                                                              RMSEA = 0.041
+                           Note: * p < 0.05, ** p < 0.01, *** p < 0.001.
+Sustainability 2022, 14, x FOR PEER REVIEW                                                                       21 of 31 
+ 
+
+                              Table 10. Summary of hypotheses. 
+
+                                                             Path                                     Hypothesis 
+                                 H1a            Producers           →        National image            Supported 
+                                 H1b             Casting            →        National image            Supported 
+      Sustainability 2022, 14, 3200                                                                          20 of 30
+                                 H1c             Training           →        National image          Not supported 
+                                 H1d       Producing/promotion      →        National image            Supported 
+                                 H2a           Social media         →        National image          Not supported 
+                                 Table 10. Summary of hypotheses.
+                                 H2b             Contents           →        National image            Supported 
+                                                Path                                               Hypothesis
+                                                                    → 
+            H1a                ProducersH3a     Producers→              SNSNational citizenship image  behavior SupportedNot supported 
+            H1b                 CastingH3b       Casting →          →   SNSNational citizenship image  behavior SupportedSupported 
+            H1c                 TrainingH3c      Training→          →   SNSNational citizenship image behavior NotNot supported supported 
+            H1d           Producing/promotionH3d Producing/promotion→  → SNSNational citizenship image  behavior SupportedSupported 
+                                                        →
+            H2a               SocialH4 mediaa  Social media         →   SNSNational citizenship image behavior NotNot supported supported 
+            H2b                 Contents                →                National image             Supported
+                                                                    →
+            H3a                ProducersH4b      Contents→           SNS SNS citizenship citizenship behavior behavior NotPartially supported supported 
+            H3b                 Casting                 →            SNS citizenship behavior       Supported
+            H3c                 TrainingH5    National image→       →SNS SNS citizenship citizenship behavior behavior Not supportedSupported 
+            H3d           Producing/promotion           →            SNS citizenship behavior       Supported
+            H4a               Social media              →            SNS citizenship behavior     Not supported
+                                                                        Tourist behavioral inten-
+            H4b                 ContentsH6    National image→       →SNS citizenship behavior   PartiallySupported supported  
+             H5              National image             →            SNS citizenshiption behavior   Supported
+             H6              National image             →           TouristTourist behavioral behavioral intention inten- Supported
+                                  H7     SNS citizenship behavior   →                                  Supported 
+             H7          SNS citizenship behavior       →           Tourist behavioraltion intention Supported
+
+
+                                                                                                            
+
+                              FigureFigure 2. Results 2. Results of of hypothesis hypothesis testing. testing. 
+
+                              4.5. TheIn Mediated our SEM Effect results using GSCA Pro, we observe the following. (1) Again, the same
+                                 four K-pop factors have a statistically signiﬁcant positive inﬂuence on national image:
+                                 K-popWe  producers,also  looked casting,  at  whether producing/promotion,  national  image and  and contents,  SNS  while citizenship the same  behavior two factors,  have  a 
+                              mediatingK-pop training  effect  in and  the social  relationship media, do  between not have  the a signiﬁcant  K-pop  success effect.  factors (2) As in and our  tourist SEM   be-
+                              havioralanalysis intention. using SmartPLS, Table 11 two presents factors, our K-pop results. casting We anddid producing/promotion,observe a mediating effect have ain the 
+                              pathstatistically of K-pop signiﬁcant producers, positive casting, inﬂuence producing/promotion, on SNS citizenship behavior,contents while → national the four  otherimage → 
+                              SNSfactors  citizenship have no  behavior statistically → signiﬁcant tourist  behavioraleffect on it (K-pop  intention. producers,  The  implicationtraining, social  is media, that  these 
+                              fourand K- contents).pop factors (3) are As  inimproving the other  analyses,South Korea national’s national image has image a statistically and thereby signiﬁcant impacting 
+                              SNSpositive citizenship inﬂuence  behavior, on SNS citizenship  which,  behaviorultimately, and  bothinfluences national  tourist image and behavioral SNS citizenship  intention. 
+                                 behavior have a statistically signiﬁcant positive inﬂuence on tourist behavioral intention.
+                              However, we do not observe any mediating effect in the path of K-pop training, social 
+                                      In our SEM  results using JASP, we observe the following. (1) Again, the same
+                                      →                  →                             →
+                              mediafour K-pop nationalfactors image have  a statistically SNS citizenship signiﬁcant behavior positive inﬂuence tourist behavioral on national intention. image:  
+                                 K-pop producers, casting, producing/promotion, and contents, while the same two factors,
+                                 K-pop training and social media, do not have a signiﬁcant effect. (2) As in our SEM analysis
+                                 using GSCA Pro, two factors, K-pop casting and producing/promotion, have a statistically
+Sustainability 2022, 14, 3200                                                                          21 of 30
+
+
+                           signiﬁcant positive inﬂuence on SNS citizenship behavior, while the four other factors
+                           have no statistically signiﬁcant effect on it (K-pop producers, training, social media, and
+                           contents). (3) As in the other analyses, national image has a statistically signiﬁcant posi-
+                           tive inﬂuence on SNS citizenship behavior and both national image and SNS citizenship
+                           behavior have a statistically signiﬁcant positive inﬂuence on tourist behavioral intention.
+                                Our hypothesis results can be summarized as follows. (1) Since four K-pop fac-
+                           tors show a statistically signiﬁcant positive inﬂuence on national image (i.e., K-pop pro-
+                           ducers, casting, producing/promotion, and contents), [Hypothesis 1a], [Hypothesis 1b],
+                           [Hypothesis 1d], and [Hypothesis 2a] are all supported. However, [Hypothesis 1c] and
+                           [Hypothesis 2a] are not supported, as the two remaining factors (training and social media)
+                           do not signiﬁcantly inﬂuence national image. (2) In terms of [Hypothesis 3b] and [Hypoth-
+                           esis 3d], as two factors have a statistically signiﬁcant positive inﬂuence on SNS citizenship
+                           behavior in all the programs (casting and producing/promotion), these are supported;
+                           furthermore, since K-pop contents has a statistically signiﬁcant positive inﬂuence on SNS
+                           citizenship behavior in the SPSS analysis, [Hypothesis 4b] is partially supported. However,
+                           as the other three factors do not have a statistically signiﬁcant effect on SNS citizenship
+                           behavior (K-pop producers, training, and social media), [Hypothesis 3a], [Hypothesis 3c],
+                           and [Hypothesis 4a] are not supported. (3) As national image has a statistically signiﬁcant
+                           positive inﬂuence on SNS citizenship behavior and national image and SNS citizenship be-
+                           havior both have a statistically signiﬁcant positive inﬂuence on tourist behavioral intention,
+                           [Hypotheses 5 ~ Hypotheses 7] are supported.
+
+                           4.5. The Mediated Effect
+                                We also looked at whether national image and SNS citizenship behavior have a
+                           mediating effect in the relationship between the K-pop success factors and tourist behavioral
+                           intention. Table 11 presents our results. We did observe a mediating effect in the path
+                           of K-pop producers, casting, producing/promotion, contents → national image → SNS
+                           citizenship behavior → tourist behavioral intention. The implication is that these four
+                           K-pop factors are improving South Korea’s national image and thereby impacting SNS
+                           citizenship behavior, which, ultimately, inﬂuences tourist behavioral intention. However,
+                           we do not observe any mediating effect in the path of K-pop training, social media →
+                           national image → SNS citizenship behavior → tourist behavioral intention.
+
+                           Table 11. Mediated effect results.
+
+                         Path                               β           t           p        Mediated Effect
+             Producers → national image → SNS citizenship
+      1                                                   0.009       2.445        0.015          Yes
+                 behavior → tourist behavioral intention
+               Casting → national image → SNS citizenship
+      2                                                   0.007       2.263        0.024          Yes
+                 behavior → tourist behavioral intention
+              Training → national image → SNS citizenship
+      3                                                   0.000       0.094        0.925           No
+                 behavior → tourist behavioral intention
+             Producing → national image → SNS citizenship
+      4                                                   0.009       2.630        0.009          Yes
+                 behavior → tourist behavioral intention
+                 Social media → national image → SNS
+      5              citizenship behavior → tourist       0.004       1.545        0.123           No
+                         behavioral intention
+              Contents → national image → SNS citizenship
+      6                                                   0.006       2.079        0.038          Yes
+                 behavior → tourist behavioral intention
+Sustainability 2022, 14, 3200                                                                          22 of 30
+
+
+                           5. Discussion and Conclusions
+                           5.1. Summary of the Study
+                                (1) Four success factors of K-pop (producers, casting, producing/promotion, and
+                           contents) were found to exert a statistically signiﬁcant positive (+) effect on national image.
+                           This ﬁnding is consistent with the ﬁndings from previous studies by Han, Chen, and
+                           Rhee [109], Jang and Jung [111], Kim [108], Li and Park [112], and Moon and Park [113].
+                           In K-pop production, Korean entertainment companies meticulously prepare the global
+                           launch by systemizing the entire production process of “casting–training–producing–global
+                           promotion.” In terms of the distribution method, in particular, they utilized social media
+                           such as YouTube, Facebook, and Twitter and minimized the cost and the time for global
+                           launching. In terms of contents, K-pop idols brought about constant transformation based
+                           on the combination of excellent singing skills, choreography, and charming visuals, thereby
+                           captivating consumers globally.
+                                To synthesize the above ﬁnding, the success factors of K-pop led global viewers to feel
+                           closer to Korea and helped improve the national image of Korea and its attraction level.
+                           That is, among global viewers, K-pop’s popular culture greatly affected the national image
+                           of Korea. This veriﬁed that K-pop culture in Korea is contributing to the formation of a
+                           positive national image among global viewers.
+                                Meanwhile, training and social media did not exert a statistically signiﬁcant effect on
+                           national image. The standard of training that puts the multitude of candidates into rigorous
+                           training regiments to produce a handful of stars is deemed to be the competitiveness that
+                           differentiates Korea from other countries. Nevertheless, training did not exert a statistically
+                           signiﬁcant effect on national image. In particular, the hypothesis test using SPSS indicated
+                           that the effect of training on national image was not only statistically nonsigniﬁcant, but
+                           also showed a negative (-) effect. This suggests that grueling K-pop boot-camps resembling
+                           harsh Spartan training can exert a negative effect on the national image of Korea among
+                           global viewers.
+                                In addition, global K-pop viewers who are familiar with social media enjoy the culture
+                           and freely express their views on social media. Nonetheless, social media did not exert
+                           a statistically signiﬁcant effect on national image. In reality, global K-pop viewers can
+                           use social media to obtain various K-pop-related information and knowledge released
+                           by entertainment companies. In other words, global K-pop viewers who widely utilize
+                           social media can effectively use their knowledge and collect information about K-pop.
+                           Furthermore, much knowledge of K-pop did not necessarily mean a positive national
+                           image of Korea. Considering the potential of K-pop, however, it can be speculated that it
+                           may form a positive national image in the future.
+                                To sum up, K-pop has succeeded in taking root in every corner of the world. This is
+                           evident from the headlines of numerous media outlets regarding successful international
+                           debuts and global pop hits by Korean musicians, who have taken the center stage in
+                           the massive popularity of Korean pop culture on the global stage. Amid the COVID-19
+                           pandemic, the world music industry (e.g., ofﬂine music concerts) is suffering a frustrating
+                           downturn. However, everyone in the industry is trying hard to boost and revive the
+                           market by developing a new competitive edge. Under this situation, speciﬁcally, what
+                           made the global success of K-pop possible were the series of efforts and innovations (e.g.,
+                           producers, casting, producing/promotion, contents) made by entertainment companies
+                           (production companies) under the given circumstances. This is also supported by the
+                           results of this study.
+                                Therefore, the entry of K-pop and other pop cultures of Korea into the global market,
+                           as well as the series of efforts and innovations made by entertainment companies (produc-
+                           tion companies) could contribute to enhancing the national brand of Korea. Additionally,
+                           they could play an important role in helping other industries of Korea including Korean
+                           products, healthcare, and tourism. Also, those efforts and innovations would have other
+                           positive effects in improving Korea’s national image/competitiveness in various ﬁelds such
+                           as Hangul (Korean alphabet), food, and fashion. In this regard, the success factors (produc-
+Sustainability 2022, 14, 3200                                                                          23 of 30
+
+
+                           ers, casting, producing/promotion, contents) of K-pop are extraordinarily important for
+                           improving the national image of Korea.
+                                (2) Casting and producing/promotion were found to exert a statistically signiﬁcant
+                           positive (+) effect on SNS citizenship behavior. Furthermore, contents showed a statistically
+                           signiﬁcant positive (+) effect on SNS citizenship behavior, but only in the SPSS analysis.
+                           This ﬁnding partially supports previous studies done by Kim [31] and Jun [30]. The ﬁndings
+                           can be summed up in three points: (1) In terms of casting, Korean entertainment companies
+                           heavily invest in discovering raw talent. That is, they put all their effort in ﬁnding talented
+                           youth, believing that discovery of a good gemstone is half-success. In addition, they actively
+                           scout talented youths globally by holding auditions overseas [81]. (2) In terms of producing
+                           creative works, Korean entertainment companies tap global sources. In other words, they
+                           engage global experts in each ﬁeld of creative work and maximize the level of perfection.
+                           Meanwhile, they divide labor in the production process by collaborating with experts from
+                           a diverse background (nationality or ﬁeld). In terms of promotion, they utilize the network
+                           of local partners. From the planning stage, they keep a global launch in mind and minimize
+                           the uncertainty and risks pertaining to a global launch by building a partnership with local
+                           companies. In addition, they release albums tailored to the local market and overcome
+                           cultural barriers in a short period of time [78,79]. (3) Korean entertainment companies
+                           constantly transform contents, while K-pop idols transform the combination of competitive
+                           vocals, choreography, and visuals in an attempt to captivate consumers worldwide. In
+                           addition, they strive to obtain universal popularity that transcends nationalities by fusing
+                           Western-style pop with easy melodies suited for the Asian sentiment. They also strive to
+                           offer splendid spectacles by including perfectly regimented group dance and point dance.
+                           Furthermore, they constantly attempt to transform through sensational fashion and styles
+                           for releasing new songs [14,88–90]. To synthesize the above ﬁndings, the inﬂuence of new
+                           media such as YouTube and SNS changed the paradigm    of K-pop distribution and led
+                           to active participation of fans [30,31]. Therefore, among the six success factors of K-pop,
+                           casting, producing/promotion, and contents maximized information sharing among global
+                           K-pop viewers through SNS, while naturally promoting SNS citizenship behavior.
+                                In summary, the results of this study indicate that it is necessary to have a clear
+                           vision of the global entertainment industry (K-pop) and consistently create innovative
+                           K-pop products (contents). In other words, it means that we need to build a sustainable
+                           growth model for K-pop by 
+1 securing the growth momentum for K-pop, 
+2 strengthening
+                           the capability of K-pop for industrialization, 
+3 developing creative and talented human
+                           resources for K-pop, and 
+4 establishing rules for fair competition in the K-pop market.
+                           And the weapons for improving the quality and diversity of K-pop products (contents) will
+                           deﬁnitely go with expanding their market share in the global market. That is, this study
+                           indicates that the industry should generate more creative and innovative music products
+                           (contents) on a consistent basis, further expanding its consumer base in the world market
+                           by developing new genres.
+                                Moreover, global K-pop viewers (fans) are actively utilizing social media for commu-
+                           nication. Considering this trend, for entertainment companies (production companies), it
+                           is of utmost importance to make more aggressive use of social media to distribute K-pop
+                           contents, which is substantiated in this study. It can be also said that there is a need to
+                           systemically analyze the data of global viewers (fans) on social media and more specif-
+                           ically categorize the types and channels for distributing K-pop contents. To this end,
+                           K-pop contents for those viewers should be provided in the format that is most friendly
+                           to social media, which can be achieved thoroughly based on the interactive relationships
+                           among global viewers (fans). Therefore, the success factors (casting, producing/promotion,
+                           contents) of K-pop are playing a very important role in enhancing SNS citizenship behavior.
+                                (3) National image was found to exert a statistically signiﬁcant positive (+) effect on
+                           SNS citizenship behavior. This ﬁnding supports the ﬁndings from previous studies by Ahn
+                           and Park [116], Nyadzayo, Matanda, and Ewing [114], and Hoang [115]. This indicates that
+                           a positive national image of Korea perceived by global viewers can enhance SNS citizenship
+Sustainability 2022, 14, 3200                                                                          24 of 30
+
+
+                           behavior. That is, accurate K-pop information provided to global K-pop viewers can help
+                           create a positive national image and lead them to view Korea more favorably. Therefore,
+                           formation of a positive national image can be said to play a crucial role in improving SNS
+                           citizenship behavior among global K-pop viewers.
+                                (4) National image and SNS citizenship behavior were found to exert a statistically
+                           signiﬁcant positive (+) effect on tourist behavioral intention. This ﬁnding supports the
+                           ﬁnding of previous studies by Alvarez and Campo [117], Kim, Kim, and Cha [123], Kim,
+                           Kim, and Choi [120], Kim, Kim, and Lee [118], Kim, Kwon, and Bae [119], Kwon and
+                           Song [124], Lee and Kim  [121], Lee and Lockshin [122], and Suh and Yang [106]. In
+                           the culture and tourism industry, national image is considered a key variable that has a
+                           profound effect on global K-pop viewers’ (tourists’) decisions on their tourist destination.
+                           In other words, under the circumstance where international travel is becoming common,
+                           it was shown that building a positive national image can act as an effective factor for
+                           attracting more global K-pop viewers (tourists) to Korea.
+                                Global K-pop viewers (tourists) become more engrossed by their favorite K-pop idols
+                           and continuously search for information about K-pop, which leads to voluntary SNS
+                           citizenship behavior. That is, global K-pop viewers (tourists) who voluntarily participate
+                           in SNS citizenship behavior perform selﬂess and altruistic acts on SNS. This showed that
+                           global K-pop viewers’ (tourists’) voluntary SNS citizenship behavior can lead to tourist
+                           behavioral intention in the future.
+                                (5) In the path analysis, there was a mediating effect as follows: producers, casting,
+                           producing/promotion, contents →  national image → SNS citizenship behavior → tourist
+                           behavioral intention. In other words, the four success factors of K-pop were shown to
+                           improve national image/SNS citizenship behavior and further improve tourist behavioral
+                           intention. Based on this research ﬁnding, we can view the key to the success of K-pop
+                           in “competition” from the perspective of business management and psychology. That is,
+                           Korean pop culture is competing with Western pop music with a much faster pace than
+                           other industries, while differentiating to survive. In doing so, K-pop is offering a unique
+                           enjoyment to global viewers unlike Western pop music. Furthermore, because K-pop has
+                           built up its strength through competition, the global attention is not temporary. Therefore,
+                           the success factors of K-pop demonstrated in this study have crucial roles for K-pop to
+                           succeed as a cultural industry in the global market. In other words, this study veriﬁed
+                           that the success factors of K-pop can improve global viewers’ national image and SNS
+                           citizenship behavior, and ultimately tourist behavioral intention.
+
+                           5.2. Implications of this Study
+                                This study has academic and practical implications as follows.
+                                (1) This study is very signiﬁcant in that it used three base theories (SERVQUAL model
+                           + image theory + theory of planned behavior) to empirically verify the effect of the success
+                           factors of K-pop on national image and SNS citizenship behavior, as well as on tourist
+                           behavioral intention.
+                                (2) The hypotheses in this study were tested using four statistics programs (SPSS,
+                           SmartPLS, GSCA Pro, and JASP) in performing regression analysis and SEM analysis. This
+                           greatly contributed to improving the level of accuracy and generalization and overcame
+                           the limitations of the statistical analyses.
+                                (3) As an exemplary cultural product, K-pop is creating large-scale economic added
+                           value. Therefore, it is necessary for companies in other ﬁelds to use the K-pop’s strategic
+                           value (songs, vocals, fans) as a stepping stone for developing new products, establishing
+                           new strategies for promotion, and pioneering a new market. This can be discussed in
+                           detail as follows: (1) Added values should be generated using derivative products. That
+                           is, the gaming and animation industries can develop products using K-pop contents or
+                           stars as characters, while conventional cultural products such as musicals and dramas
+                           can cast K-pop singers; (2) Buyers’ goods that attract K-pop fans should be developed. In
+                           other words, it is necessary to design customized products that integrate K-pop contents,
+Sustainability 2022, 14, 3200                                                                          25 of 30
+
+
+                           tourism, and shopping, and attract tourists by landmarking the place that produces K-pop;
+                           (3) It is necessary to maximize the effect of promotion through collaboration with K-pop
+                           singers who have an exceptional sense of fashion and design; (4) It is essential to adopt
+                           a new PR strategy to hire K-pop stars as commercial ﬁlm models for marketing relevant
+                           products; and (5) It is imperative to use the K-pop fan base as a bridgehead to enter the
+                           newly emerging market. In particular, it is necessary to establish a more meticulous global
+                           launching strategy for each region by utilizing social media such as YouTube, which is a
+                           main route of K-pop distribution.
+                                To synthesize, K-pop succeeds by keeping the global launch in mind from a long-
+                           term perspective, and by building on the strength of Korean culture through systematic
+                           production of stars who have the crucial talent. Taking this as a lesson, it is imperative to
+                           promote the third and the fourth Hallyu to improve the national image and brand as well
+                           as the diversiﬁcation of export.
+                                (4) It is necessary to establish the measures to integrate K-pop in product planning and
+                           PR for sustainable marketing for Hallyu tourism. In other words, it is crucial to encourage
+                           visits/travel to Korea through sustainable support and management for ardent K-pop fans
+                           and foreign guests attending K-pop concerts. In addition, it is essential to reinforce the
+                           development of a sustainable website that provides information about K-pop and relevant
+                           tourism information. In the meantime, it is necessary to encourage K-pop performance in
+                           relation to sustainable local festivals and to develop K-pop related Hallyu tourism products
+                           tailored to different target groups. Furthermore, it is imperative to establish measures to
+                           vitalize K-pop-related Hallyu tourism from a sustainable and institutional level.
+
+                           5.3. Limitations of the Study and Future Directions
+                                (1) It is speculated that attributes of K-pop consumers may differ between the group
+                           of global viewers who actually attended a concert in person more than once and the group
+                           of global viewers who only watched the online concerts. Therefore, the groups should be
+                           analyzed and compared in a follow-up study.
+                                (2) With regard to the likelihood of displaying the tourist behavioral intention by
+                           the global viewers who actually attended a K-pop concert, temporal distance and spatial
+                           distance from construal level theory should be used as moderator variables. In doing so,
+                           the study could show in detail potential visitors’ tourist behavioral intention.
+                                (3) In the structure that shows the inﬂuence of realistic success factors of K-pop
+                           on tourist behavioral intention, it is necessary to include other parameters (moderator
+                           variables) apart from national image and SNS citizenship behavior to examine the effect on
+                           tourist behavioral intention from multiple perspectives.
+
+                           Author Contributions: Conceptualization, J.-h.K.; Data curation J.-h.K.; Formal analysis J.-h.K.;
+                           Investigation J.-h.K.; Methodology J.-h.K.; Supervision H.-j.C.; Validation H.-j.C.; Visualization J.-h.K.;
+                           Writing—original draft J.-h.K., K.-j.K., B.-t.P. and H.-j.C.; Writing—review & editing J.-h.K., K.-j.K.,
+                           B.-t.P. and H.-j.C. All authors have read and agreed to the published version of the manuscript.
+                           Funding: This work was supported by the National Research Foundation of Korea Grant funded by
+                           the Korean Government (NRF-2019S1A5B5A02051362).
+                           Institutional Review Board Statement: Ethical review and approval were waived for this study,
+                           because, although it was a human study, it was observational, and the research design did not involve
+                           ethical issues.
+                           Informed Consent Statement: Informed consent was obtained from all subjects involved in the study.
+                           Data Availability Statement: Data sharing not applicable. The data are not publicly available due to
+                           participants’ privacy.
+                           Conﬂicts of Interest: The authors declare no conﬂict of interest.
+Sustainability 2022, 14, 3200                                                                                         26 of 30
+
+
+References
+1.   Ryu, J.; Capistrano, E.P.; Lin, H.C. Non-Korean consumers’ preferences on Korean popular music: A two-country study. Int. J.
+     Mark. Res. 2020, 62, 234–252. [CrossRef]
+2. Boman, B. Cultural amnesia or continuity? Expressions of han in K-pop. East Asian J. Pop. Cult. 2020, 6, 111–123. [CrossRef]
+3.   Zhao, J.J. Blackpink queers your area: The global queerbaiting and queer fandom of K-pop female idols. Fem. Media Stud. 2021,
+     21, 1033–1038. [CrossRef]
+4.   Kanozia, R.; Ganghariya, G. More than K-pop fans: BTS fandom and activism amid COVID-19 outbreak.    Media Asia 2021, 48,
+     338–345. [CrossRef]
+5.   Parc, J.; Kim, S.D. The digital transformation of the Korean music industry and the global emergence of K-pop. Sustainability 2020,
+     12, 7790. [CrossRef]
+6.   Shin, S.I. 14. How K-pop went global: Digitization and the market-making of Korean entertainment houses. In Pop Empires:
+     Transnational and Diasporic Flows of India and Korea; Heijin Lee, S., Mehta, M., Ji-Song Ku, R., Alexy, A., Eds.; University of Hawaii
+     Press: Honolulu, HI, USA, 2019; pp. 268–281. [CrossRef]
+7.   Malik, Z.; Haidar, S. Online community development through social interaction—K-Pop stan twitter as a community of practice.
+     Interact. Learn. Environ. 2020, 1–19. [CrossRef]
+8. Yoon, K. Diasporic youth culture of K-pop. J. Youth Stud. 2019, 22, 138–152. [CrossRef]
+9.   Kim, S.; Hwang, S.; Kim, J. Factors inﬂuencing K-pop artists’ success on V live online video platform. Telecommun. Policy 2021,
+     45, 102090. [CrossRef]
+10.  Jin, D.Y. Transnationalism, cultural ﬂows, and the rise of the Korean Wave around the globe. Int. Commun. Gaz. 2019, 81, 117–120.
+     [CrossRef]
+11.  Sim, H.; Kim, S.; Lee, B. K-Pop strategy seen from the viewpoint of cultural hybridity and the tradition of the Gwangdae. Kritika
+     Kultura 2017, 29, 292–317. [CrossRef]
+12. Bang, Y.Y.; Joo, Y.; Seok, H.; Nam, Y. Does K-pop affect Peruvians’ Korean images and visit intention to Korea? Curr. Issues Tour.
+     2021, 24, 3519–3534. [CrossRef]
+13. Kang, J.M. Rediscovering the idols: K-pop idols behind the mask. Celebrity Stud. 2017, 8, 136–141. [CrossRef]
+14.  Kim, Y.Y. Performed intermediality and beyond in the BTS music video ‘Idol’: K-Pop idol identities in contemporary Hallyu. East
+     Asian J. Pop. Cult. 2020, 6, 239–255. [CrossRef]
+15.  Park, H.K. Success factor analysis of new Korean wave ‘K-POP’ and a study on the importance of smart media to sustain Korean
+     wave. J. Digit. Converg. 2020, 18, 129–135. [CrossRef]
+16. Messerlin, P.A.; Shin, W. The success of K-pop: How big and why so fast? Asian J. Soc. Sci. 2017, 45, 409–439. [CrossRef]
+17.  Kim, J.H.; Jung, M.H.; Choi, H.J. Popular culture inﬂuences on national image and tourism behavioural intention: An exploratory
+     study. J. Psychol. Afr. 2021, 31, 390–399. [CrossRef]
+18.  Bland, E. How “smart” are K-pop fans: Can the study of emotional intelligence of K-pop fans increase marketing potential. Cult.
+     Empathy 2019, 2, 105–115. [CrossRef]
+19.  Singer, N.G.; Hidayat, Z. Inﬂuencing factors in fans’ consumer behavior: BTS meal distribution in Indonesia. J. Distrib. Sci. 2021,
+     19, 113–123. [CrossRef]
+20.  Cruz, A.G.B.; Seo, Y.; Binay, I. Cultural globalization from the periphery: Translation practices of English-speaking K-pop fans.
+     J. Consum. Cult. 2021, 21, 638–659. [CrossRef]
+21.  Swan, A.L. Transnational identities and feeling in fandom: Place and embodiment in K-pop fan reaction videos. Commun. Cult.
+     Crit. 2018, 11, 548–565. [CrossRef]
+22.  Ahn, H. English and K-pop: The case of BTS 1. In English in East and South Asia: Policy, Features and Language in Use; Low, E.L.,
+     Pakir, A., Eds.; Routledge: London, UK, 2021; pp. 212–225.
+23.  Yoon, K. Global imagination of K-pop: Pop music fans’ lived experiences of cultural hybridity. Pop. Music Soc. 2018, 41, 373–389.
+     [CrossRef]
+24. Xu, M. The rise of Time Fengjun Entertainment. SSR 2021, 3, 178–181. [CrossRef]
+25.  Balakrishnan, J.; Grifﬁths, M.D. Social media addiction: What is the role of content in YouTube? J. Behav. Addict. 2017, 6, 364–377.
+     [CrossRef]
+26.  De Jesus, C.F. “BangBangCon: The live”—A case study on live performances and marketing strategies with the Korean-Pop
+     group “BTS” during the pandemic scenario in 2020. AMJ 2021, 22, 63–78. [CrossRef]
+27.  Seo, J.H.; Kim, B. The “Hallyu” phenomenon: Utilizing tourism destination as product placement in K-POP culture. Tour. Econ.
+     2020, 26, 719–728. [CrossRef]
+28.  Kwak, H.E.; Kim, J.H.; Kim, S.Y.; Jung, J.E.; Choi, H.J. Korean dance performance inﬂuences on prospective tourist cultural
+     products consumption and behaviour intention. J. Psychol. Afr. 2019, 29, 230–236. [CrossRef]
+29.  Lee, H.W.; Kim, J.H. Brand loyalty and the Bangtan Sonyeondan (BTS) Korean dance: Global viewers’ perceptions. J. Psychol. Afr.
+     2020, 30, 551–558. [CrossRef]
+30.  Jun, J.K. A Study on the Factors of Overseas Spread of K-pop: With Focus on the Analysis of Producer, Recipient, Media and
+     Content Field. Ph.D. Thesis, Kookmin University Graduate, Seoul, Korea, 2019. Available online: http://www.riss.kr/link?id=T1
+     5372345 (accessed on 22 January 2022).
+Sustainability 2022, 14, 3200                                                                                         27 of 30
+
+
+31.  Kim, H.S. A Study on Success Strategies for Global Marketing of K-Pop: Focusing on Experts' In-Depth Interview. Master's
+     Thesis, The Graduate School of Journalism and Mass Communication, Hanyang University, Seoul, Korea, 2012. Available online:
+     http://www.riss.kr/link?id=T12865319 (accessed on 22 January 2022).
+32.  Lie, J. What is the K in K-pop? South Korean popular music, the culture industry, and national identity. Korea Obs. 2012,
+     43, 339–363.
+33.  Oh, J.M.; Lee, S.B. The knowledge structure of K-pop research in Korea: Focusing on the network analysis of research keyword
+     2012–2021. J. Media Econ. Cult. 2021, 19, 7–38. Available online: http://www.riss.kr/link?id=A107932359 (accessed on 22 January
+     2022). [CrossRef]
+34.  Liu, R.; Cui, L.; Zeng, G.; Wu, H.; Wang, C.; Yan, S.; Yan, B. Applying the fuzzy SERVQUAL method to measure the service
+     quality in certiﬁcation & inspection industry. Appl. Soft. Comput. 2015, 26, 508–512. [CrossRef]
+35.  Shankar, A.; Jebarajakirthy, C. The inﬂuence of e-banking service quality on customer loyalty: A moderated mediation approach.
+     Int. J. Bank Mark. 2019, 37, 1119–1142. [CrossRef]
+36. Stamenkov, G.; Dika, Z. A sustainable e-service quality model. J. Serv. Theory Pract. 2015, 25, 414–442. [CrossRef]
+37.  Jonkisz, A.; Karniej, P.; Krasowska, D. SERVQUAL method as an “Old New” tool for improving the quality of medical services: A
+     literature review. Int. J. Environ. Res. Public Health 2021, 18, 10758. [CrossRef] [PubMed]
+38. Ladhari, R. A review of twenty years of SERVQUAL research.  Int. J. Qual. Serv. Sci. 2009, 1, 172–198. [CrossRef]
+39.  Rodrigues, L.L.; Barkur, G.; Varambally, K.V.M.; Motlagh, F.G. Comparison of SERVQUAL and SERVPERF metrics: An empirical
+     study. TQM J. 2011, 23, 629–643. [CrossRef]
+40.  Rezaei, J.; Kothadiya, O.; Tavasszy, L.; Kroesen, M. Quality assessment of airline baggage handling systems using SERVQUAL
+     and BWM.   Tour. Manag. 2018, 66, 85–93. [CrossRef]
+41.  Shah, F.T.; Syed, Z.; Imam, A.; Raza, A. The impact of airline service quality on passengers’ behavioral intentions using passenger
+     satisfaction as a mediator. J. Air Transp. Manag. 2020, 85, 101815. [CrossRef]
+42. Ali, S.S.; Basu, A.; Ware, N. Quality measurement of Indian commercial hospitals—Using a SERVQUAL framework.   BIJ 2018,
+     mboxemph25, 815–837. [CrossRef]
+43.  Lee, S.; Kim, E.K. The effects of Korean medical service quality and satisfaction on revisit intention of the United Arab Emirates
+     government sponsored patients. Asian Nurs. Res. 2017, 11, 142–149. [CrossRef]
+44.  Famiyeh, S.; Kwarteng, A.; Asante-Darko, D. Service quality, customer satisfaction and loyalty in automobile maintenance
+     services: Evidence from a developing country. J. Qual. Maint. Eng. 2018, 24, 262–279. [CrossRef]
+45.  Jain, N.K.; Singh, A.K.; Kaushik, K. Evaluating service quality in automobile maintenance and repair industry. Asia Pac. J. Mark.
+     Logist. 2020, 33, 117–134. [CrossRef]
+46.  James, A.T.; James, J. Service quality evaluation of automobile garages using a structural approach. Int. J. Qual. Reliab. Manag.
+     2021, 38, 602–627. [CrossRef]
+47.  Durdyev, S.; Ihtiyar, A.; Banaitis, A.; Thurnell, D. The construction client satisfaction model: A PLS-SEM approach. J. Civ. Eng.
+     Manag. 2018, 24, 31–42. [CrossRef]
+48.  Prakash, A.; Phadtare, M. Service quality for architects: Scale development and validation. Eng. Constr. Archit. Manag. 2018,
+     25, 670–686. [CrossRef]
+49.  Gholipour Soleimani, A.; Einolahzadeh, H. The inﬂuence of service quality on revisit intention: The mediating role of WOM and
+     satisfaction (Case study: Guilan travel agencies). Cogent Soc. Sci. 2018, 4, 1560651. [CrossRef]
+50.  Mohtasham, S.S.; Sarollahi, S.K.; Hamirazavi, D. The effect of service quality and innovation on word of mouth marketing success.
+     Eurasian Bus. Rev. 2017, 7, 229–245. [CrossRef]
+51.  Chang, Y. A preliminary study of job performance in entertainment management using DACUM job analysis. J. Secr. Stud. 2010,
+     19, 5–32.
+52.  Choi, B.H.; Park, J.H. Policy measures: Strengthening K-pop competitiveness. Korea Institute for Industrial Economics & Trade.
+     Policy Data 2017, 239, 1–79.
+53.  Kim, M.K. A study on the structure and the characteristic of the relation in the entertainment industry. Hum. Contents 2012,
+     26, 73–99.
+54.  Beach, L.R.; Mitchell, T.R. Image theory: Principles, goals, and plans in decision making. Acta Psychol. 1987, 66, 201–220. [CrossRef]
+55.  Tversky, A.; Kahneman, D. Availability: A heuristic for judging frequency and probability. Cogn. Psychol. 1973, 5, 207–232.
+     [CrossRef]
+56.  Penney, C.; Vardaman, J.; Marler, L.; Antin-Yates, V. An image theory of strategic decision-making in family businesses. J. Fam.
+     Bus. Manag. 2019, 9, 451–467. [CrossRef]
+57.  Salavou, H.; Lioukas, S. An empirical juxtapose of the effects of self-image on entrepreneurial career along the spectrum of
+     nascent to actual entrepreneurs. Eur. Manag. Rev. 2019, 16, 1129–1141. [CrossRef]
+58.  Beach, L.R.; Puto, C.P.; Heckler, S.E.; Naylor, G.; Marble, T.A. Differential versus unit weighting of violations, framing, and the
+     role of probability in image theory’s compatibility test. Organ. Behav. Hum. Decis. Process. 1996, 65, 77–82. [CrossRef]
+59.  Nelson, K.A. Consumer decision making and image theory: Understanding value-laden decisions.    J. Consum. Psychol. 2004,
+     14, 28–40. [CrossRef]
+60.  Thompson, M.N.; Dahling, J.J. Image theory and career aspirations: Indirect and interactive effects of status-related variables.
+     J. Vocat. Behav. 2010, 77, 21–29. [CrossRef]
+Sustainability 2022, 14, 3200                                                                                         28 of 30
+
+
+61.  Kim, H.G. Gender/sexuality politics of Korean entertainment industry structured by entertainment management companies.
+     J. Korean Women Stud. 2014, 30, 53–88.
+62.  An, J.H.; Jeong, C. An exploratory study on the sustainability of Korean wave and successful process of Korean cultural wave
+     contents: A case of PSY’s GangNam style. J. Tour. Sci. 2014, 38, 215–238.
+63.  Cho, B.C.; Sim, H. Sucess factor analysis of K-POP and a study on sustainable Korean wave—Focus on smart media based on
+     realistic contents. J. Korea Contents Assoc. 2013, 13, 90–102. [CrossRef]
+64.  Lee, I.K.; Kim, J.B.; Oh, J.W. A study on the “Korean drama and movie wave” in China and Japan. J. Kor. Serv. Manag. Soc. 2007,
+     8, 155–184.
+65.  Wen, X.; Cha, H.W. How Korean popular music(K-Pop)’s cultural proximity inﬂuences oversea audience’s evaluation of K-Pop’s
+     image and South Korea’s national image. J. Commun. Stud. 2015, 59, 267–300.
+66.  Choi, I.Y.; Choi, H.J.; Lee, J.Y.; Jung, S.H.; An, B.J.; Kim, J.H. Quality of Olympics opening ceremony: Tourism behavioural
+     intention of international spectators. J. Psychol. Afr. 2019, 29, 126–134. [CrossRef]
+67.  Kim, J.H.; Lee, K.T.; Seok, B.I.; Choi, H.J.; Jung, S.H. Competitive factors of electronic dance music festivals with Social Networking
+     Service (SNS) citizenship behaviour of international tourists. J. Psychol. Afr. 2018, 28, 116–121. [CrossRef]
+68.  Meng, H.Y.; Jung, S.H.; Yu, J.P.; Bae, K.H.; An, B.J.; Kim, J.H. Perceived tourist values of the Museum of African Art. J. Psychol. Afr.
+     2018, 28, 375–381. [CrossRef]
+69. Ajzen, I. The theory of planned behavior: Frequently asked questions. Hum. Behav. Emerg. Technol. 2020, 2, 314–324. [CrossRef]
+70.  Buhmann, A.; Brønn, P.S. Applying Ajzen’s theory of planned behavior to predict practitioners’ intentions to measure and
+     evaluate communication outcomes.  Corp. Commun. Int. J. 2018, 23, 377–391. [CrossRef]
+71. Miller, Z.D. The enduring use of the theory of planned behavior. Hum. Dimens. Wildl. 2017, 22, 583–590. [CrossRef]
+72.  Hansen, T.; Jensen, J.M.; Solgaard, H.S. Predicting online grocery buying intention: A comparison of the theory of reasoned action
+     and the theory of planned behavior. Int. J. Inf. Manag. 2004, 24, 539–550. [CrossRef]
+73.  Procter, L.; Angus, D.J.; Blaszczynski, A.; Gainsbury, S.M. Understanding use of consumer protection tools among Internet
+     gambling customers: Utility of the Theory of Planned Behavior and Theory of Reasoned Action. Addict. Behav. 2019, 99, 106050.
+     [CrossRef]
+74.  Yzer, M. Theory of reasoned action and theory of planned behavior. In The International Encyclopedia of Media Effects; Rossler, P.,
+     Hoffner, C.A., Zoonen, L., Eds.; Wiley: New York, NY, USA, 2017; pp. 1–7.
+75.  Ajzen, I. Perceived behavioral control, self-efﬁcacy, locus of control, and the theory of planned behavior. J. Appl. Soc. Psychol.
+     2002, 32, 665–683. [CrossRef]
+76.  Ishoy, G.A. The theory of planned behavior and policing: How attitudes about behavior, subjective norms, and perceived
+     behavioral control affect the discretionary enforcement decisions of police ofﬁcers. Crim. Justice Stud. 2016, 29, 345–362. [CrossRef]
+77.  Steinmetz, H.; Davidov, E.; Schmidt, P. Three approaches to estimate latent interaction effects: Intention and perceived behavioral
+     control in the theory of planned behavior. Methodol. Innov. Online 2011, 6, 95–110. [CrossRef]
+78.  Fuhr, M. Globalization and Popular Music in South Korea: Sounding Out K-Pop; Routledge: New York, NY, USA, 2015; pp. 1–256.
+     [CrossRef]
+79.  Lee, S.H.; Choi, S.; Kim, H.W. Unveiling the success factors of BTS: A mixed-methods approach. Internet Res. 2021, 31, 1518–1540.
+     [CrossRef]
+80. Oh, I. The globalization of K-pop: Korea’s place in the global music industry. Korea Obs. 2013, 44, 389–409.
+81.  Shin, S.I.; Kim, L. Organizing K-pop: Emergence and market making of large Korean entertainment houses, 1980–2010. East Asia
+     2013, 30, 255–272. [CrossRef]
+82.  Jung, E.Y. New wave formations: K-pop idols, social media, and the remaking of the Korean wave. In Hallyu 2.0: The Korean Wave
+     in the Age of Social Media; Lee, S., Nornes, A.M., Eds.; University of Michigan Press: Ann Arbor, MI, USA, 2015; pp. 73–89.
+83. Jung, S. K-pop, Indonesian fandom, and social media. Transform. Works Cult. 2011, 8. [CrossRef]
+84.  Jung, S. Youth, social media and transnational cultural distribution: The case of online K-pop circulation. In Mediated Youth
+     Cultures; Bennett, A., Robards, B., Eds.; Palgrave Macmillan: London, UK, 2014; pp. 114–129. [CrossRef]
+85.  Marinescu, V.; Balica, E. Korean cultural products in Eastern Europe: A case study of the K-Pop impact in Romania. Region 2013,
+     2, 113–135. [CrossRef]
+86.  Min, W.; Jin, D.Y.; Han, B. Transcultural fandom of the Korean wave in Latin America: Through the lens of cultural intimacy and
+     afﬁnity space. Media Cult. Soc. 2019, 41, 604–619. [CrossRef]
+87. Sung, S.Y. K-pop reception and participatory fan culture in Austria. Cross-Currents 2014, 3, 56–71. [CrossRef]
+88. Dor  é, P.; Pugsley, P.C. Genre conventions in K-pop: BTS’s ‘Dope’ music video. Continuum 2019, 33, 580–589. [CrossRef]
+89.  Oh, I.; Lee, H.J. K-pop in Korea: How the pop music industry is changing a post-developmental society. Cross-Currents 2014,
+     3, 72–93. [CrossRef]
+90.  Parc, J.; Messerlin, P.; Moon, H.C. The secret to the success of K-pop: The beneﬁts of well-balanced copyrights. In Corporate
+     Espionage, Geopolitics, and Diplomacy Issues in International Business; Christiansen, B., Kasarcpolit, Eds.; IGI Global: Hershey, PA,
+     USA, 2016; pp. 130–148.
+91.  Laroche, M.; Papadopoulos, N.; Heslop, L.A.; Mourali, M. The inﬂuence of country image structure on consumer evaluations of
+     foreign products. Int. Mark. Rev. 2005, 22, 96–115. [CrossRef]
+Sustainability 2022, 14, 3200                                                                                         29 of 30
+
+
+92.  Kim, S.; Kim, S.; Han, H. Effects of TV drama celebrities on national image and behavioral intention. Asia Pac. J. Tour. Res. 2019,
+     24, 233–249. [CrossRef]
+93.  Sobol, K.; Cleveland, M.; Laroche, M. Globalization, national identity, biculturalism and consumer behavior: A longitudinal study
+     of Dutch consumers. J. Bus. Res. 2018, 82, 340–353. [CrossRef]
+94.  White, C.L. Brands and national image: An exploration of inverse country-of-origin effect. Place Brand. Public Dipl. 2012, 8,
+     110–118. [CrossRef]
+95.  Zeugner-Roth, K.P.; Žabkar, V.; Diamantopoulos, A. Consumer ethnocentrism, national identity, and consumer cosmopolitanism
+     as drivers of consumer behavior: A social identity theory perspective. J. Int. Mark. 2015, 23, 25–54. [CrossRef]
+96.  Han, G.Y.; Jo, S.C. The inﬂuence of Korea’s national image on intention to use Korean wave contents and mediating effect of the
+     Korean wave fandom identiﬁcation: Focusing on Asian consumers.  J. Korea Contents Assoc. 2019, 19, 296–305. [CrossRef]
+97.  Fan, Q. Relationship among China’s country image, corporate image and brand image: A Korean consumer perspective.
+     J. Contemp. Mark. Sci. 2019, 2, 34–49. [CrossRef]
+98.  Fischer, P.M.; Zeugner-Roth, K.P. Disentangling country-of-origin effects: The interplay of product ethnicity, national identity, and
+     consumer ethnocentrism.  Mark. Lett. 2017, 28, 189–204. [CrossRef]
+99.  Kim, J.H.; Seok, B.I.; Lee, K.T.; Yu, J.P. Effects of social responsibility activities of franchise chain hotels on customer value and
+     SNS citizenship behavior. Korean J. Franch. Manag. 2017, 8, 5–16. [CrossRef]
+100. Choi, H.J. Effect of chief executive ofﬁcer’s sustainable leadership styles on organization members’ psychological well-being and
+     organizational citizenship behavior. Sustainability 2021, 13, 13676. [CrossRef]
+101. Jang, Y.J.; Lee, S.H.; Kim, H.W. Examining the impact of online friendship desire on citizenship behavior. Asia Pac. J. Inf. Syst.
+     2013, 23, 29–51. [CrossRef]
+102. Levitt, J.A.; Zhang, P.; DiPietro, R.B.; Meng, F. Food tourist segmentation: Attitude, behavioral intentions and travel planning
+     behavior based on food involvement and motivation. Int. J. Hosp. Tour. Adm. 2019, 20, 129–155. [CrossRef]
+103. Wu, J.; Zeng, M.; Xie, K.L. Chinese travelers’ behavioral intentions toward room-sharing platforms: The inﬂuence of motivations,
+     perceived trust, and past experience. Int. J. Contemp. Hosp. Manag. 2017, 29, 2688–2707. [CrossRef]
+104. Afshardoost, M.; Eshaghi, M.S. Destination image and tourist behavioural intentions: A meta-analysis. Tour. Manag. 2020,
+     81, 104154. [CrossRef]
+105. Choe, J.Y.J.; Kim, S.S. Effects of tourists’ local food consumption value on attitude, food destination image, and behavioral
+     intention. Int. J. Hosp. Manag. 2018, 71, 1–10. [CrossRef]
+106. Suh, C.H.; Yang, J.Y. The effects of Korean wave contents on country image and behavioral intentions. Korea J. Bus. Adm. 2012,
+     25, 1917–1938.
+107. Lee, J.H. A study on Korea country image and cosmetics brand image in Vietnam market by the Korean wave. Int. Commer. Inf.
+     Rev. 2015, 17, 73–91. [CrossRef]
+108. Kim, H.S. Brand management process for national brand image. J. Korea Soc. Des. Sci. 2009, 22, 47–58.
+109. Han, C.M.; Chen, X.; Rhee, S.Y. The Korean wave in China and perceived images of Korean brands: Korean wave advertising vs.
+     country-of-origin effects. Korean Manag. Rev. 2011, 40, 1055–1074.
+110. Kim, T.Y. Convergence of the image of the professor in human resources of small and medium enterprises to self image: Mediating
+     effect of voice image. J. Converg. Inf. Technol. 2017, 7, 229–234. [CrossRef]
+111. Jang, H.J.; Jung, J.W. National brand image strategy through BPL cultural marketing: Focused on BPL promotional advertisements.
+     KDK J. 2012, 24, 312–321.
+112. Li, G.; Park, S.T. A study on the effect of social media on country image and purchasing intention: Focused on Chinese consumers.
+     J. Digit. Converg. 2012, 10, 119–128. [CrossRef]
+113. Moon, H.J.; Park, S.H. A study the relation between popular factors and likability of hallyu and the national image. J. Public Relat.
+     2012, 16, 247–280. [CrossRef]
+114. Nyadzayo, M.W.; Matanda, M.J.; Ewing, M.T. The impact of franchisor support, brand commitment, brand citizenship behavior,
+     and franchisee experience on franchisee-perceived brand image. J. Bus. Res. 2015, 68, 1886–1894. [CrossRef]
+115. Hoang, H.T. How does service climate inﬂuence hotel employees’ brand citizenship behavior? A social exchange and social
+     identity perspective. Australas. Mark. J. 2022, 30, 51–59. [CrossRef]
+116. Ahn, T.H.; Park, B.G. The effects of corporate social responsibility on company image and customer citizenship behavior: Focused
+     on Japanese students. J. Digit. Converg. 2019, 17, 185–192. [CrossRef]
+117. Alvarez, M.D.; Campo, S. The inﬂuence of political conﬂicts on country image and intention to visit: A study of Israel’s image.
+     Tour. Manag. 2014, 40, 70–78. [CrossRef]
+118. Kim, S.P.; Kim, S.J.; Lee, M.S. Effects of Korean wave image inﬂuences on the purchase intention of Korean educational product—
+     Focus on the controlling effects of engagement in Chinese university students. J. Korea Contents Assoc. 2013, 13, 460–474.
+     [CrossRef]
+119. Kim, J.H.; Kwon, J.H.; Bae, K.H. Impact of K-pop consumption attributes on national image and behavioral intention to visit:
+     Targeting Americans, British, South Africans and Filipinos. J. Korea Cult. Ind. 2018, 18, 63–73. [CrossRef]
+120. Kim, C.K.; Kim, G.D.; Choi, H.J. The effects of Hanllu on national image, Korea and wedding tourism. Northeast Asian Tour. Res.
+     2015, 11, 27–44.
+Sustainability 2022, 14, 3200                                                                                         30 of 30
+
+
+121. Lee, M.S.; Kim, C.S. The effect of country image on tourist destination attitudes and behavioral intentions. J. Tour. Sci. 2012,
+     36, 157–178.
+122. Lee, R.; Lockshin, L. Halo effects of tourists’ destination image on domestic product perceptions. Australas. Mark. J. 2011, 19, 7–13.
+     [CrossRef]
+123. Kim, S.Y.; Kim, Y.S.; Cha, S.M. Effects of restaurant customer’s participation and citizenship behavior on satisfaction, commitment
+     and revisit intention. J. Tour. Leis. Res. 2017, 29, 61–81.
+124. Kwon, S.Y.; Song, M.G. The effects of community attachment and civic consciousness on pro-environmental behavioral intention:
+     Pyeongtaek Case Study. J. Environ. Policy Adm. 2017, 25, 195–219. [CrossRef]
+125. Jordan, P.J.; Troth, A.C. Common method bias in applied settings: The dilemma of researching in organizations. Aust. J. Manag.
+     2020, 45, 3–14. [CrossRef]
+126. Kock, F.; Berbekova, A.; Assaf, A.G. Understanding and managing the threat of common method bias: Detection, prevention and
+     control. Tour. Manag. 2021, 86, 104330. [CrossRef]
+127. Podsakoff, P.M.; MacKenzie, S.B.; Lee, J.Y.; Podsakoff, N.P. Common method biases in behavioral research: A critical review of
+     the literature and recommended remedies. J. Appl. Psychol. 2003, 88, 879–903. [CrossRef]
+128. Ali, F.; Rasoolimanesh, S.M.; Sarstedt, M.; Ringle, C.M.; Ryu, K. An assessment of the use of partial least squares structural
+     equation modeling (PLS-SEM) in hospitality research. Int. J. Contemp. Hosp. Manag. 2018, 30, 514–538. [CrossRef]
+129. Dash, G.; Paul, J. CB-SEM vs PLS-SEM methods for research in social sciences and technology forecasting. Technol. Forecast. Soc.
+     2021, 173, 121092. [CrossRef]
+130. Hair Jr, J.F.; Howard, M.C.; Nitzl, C. Assessing measurement model quality in PLS-SEM using conﬁrmatory composite analysis.
+     J. Bus. Res. 2020, 109, 101–110. [CrossRef]
+131. Sarstedt, M.; Hair, J.F.; Ringle, C.M.; Thiele, K.O.; Gudergan, S.P. Estimation issues with PLS and CBSEM: Where the bias lies!
+     J. Bus. Res. 2016, 69, 3998–4010. [CrossRef]
+132. Hair, J.F.; Risher, J.J.; Sarstedt, M.; Ringle, C.M. When to use and how to report the results of PLS-SEM. Eur. Bus. Rev. 2019,
+     31, 2–24. [CrossRef]
+133. Hair, J.F.; Hult, G.T.M.; Ringle, C.M.; Sarstedt, M.A. Primer on Partial Least Squares Structural Equation Modeling (PLS-SEM), 3rd ed.;
+     Sage: Thousand Oaks, CA, USA, 2021; pp. 1–384.
+134. Sarstedt, M.; Ringle, C.M.; Hair, J.F. Partial least squares structural equation modeling. In Handbook of Market Research; Homburg,
+     C., Klarmann, M., Vomberg, A., Eds.; Springer: Cham, Switzerland, 2017; pp. 1–40.
+135. Cho, G.; Choi, J.Y. An empirical comparison of generalized structured component analysis and partial least squares path modeling
+     under variance-based structural equation models. Behaviormetrika 2020, 47, 243–272. [CrossRef]
+136. Hair, J.F.; Hult, G.T.M.; Ringle, C.M.; Sarstedt, M.; Thiele, K.O. Mirror, mirror on the wall: A comparative evaluation of
+     composite-based structural equation modeling methods. J. Acad. Market. Sci. 2017, 45, 616–632. [CrossRef]
+137. Hwang, H.; Takane, Y. Generalized structured component analysis. Psychometrika 2004, 69, 81–99. [CrossRef]
+138. Han, Y.S.; Kim, J.H. Performing arts and sustainable consumption: Inﬂuences of consumer perceived value on ballet performance
+     audience loyalty. J. Psychol. Afr. 2021, 31, 32–42. [CrossRef]
+139. Jung, S.H.; Kim, J.H.; Cho, H.N.; Lee, H.W.; Choi, H.J. Brand personality of Korean dance and sustainable behavioral intention of
+     global consumers in four countries: Focusing on the technological acceptance model. Sustainability 2021, 13, 11160. [CrossRef]
+140. Kim, J.H.; Kim, G.J.; Choi, H.J.; Seok, B.I.; Lee, N.H. Effects of social network services (SNS) subjective norms on SNS addiction.
+     J. Psychol. Afr. 2019, 29, 582–588. [CrossRef]
+141. Kim, J.H.; Jung, S.H.; Ahn, J.C.; Kim, B.S.; Choi, H.J. Social networking sites self-image antecedents of social networking site
+     addiction. J. Psychol. Afr. 2020, 30, 243–248. [CrossRef]
+142. Choi, H.J.; Ahn, J.C.; Jung, S.H.; Kim, J.H. Communities of practice and knowledge management systems: Effects on knowledge
+     management activities and innovation performance. Knowl. Manag. Res. Pract. 2020, 18, 53–68. [CrossRef]
+143. Kwon, J.H.; Jung, S.H.; Choi, H.J.; Kim, J. Antecedent factors that affect restaurant brand trust and brand loyalty: Focusing on US
+     and Korean consumers.  J. Prod. Brand. Manag. 2021, 30, 990–1015. [Cross
