@@ -18,3 +18,5 @@
 >> #### [**HW1**](https://github.com/brian098091/LAT-Repo/blob/main/HW1/hw1.ipynb)
 > ### Week5
 >> #### [**HW2**](https://github.com/brian098091/LAT-Repo/blob/main/HW2/HW2.ipynb)
+> ### Week6
+>> #### [**HW3**](https://github.com/brian098091/LAT-Repo/blob/main/HW3/hw3.ipynb)
