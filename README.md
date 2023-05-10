@@ -21,4 +21,4 @@
 > ### Week6
 >> #### [**HW3**](https://github.com/brian098091/LAT-Repo/blob/main/HW3/hw3.ipynb)
 > ### Week11
->> #### [**HW4**](https://github.com/brian098091/LAT-Repo/blob/main/HW3/hw3.ipynb)
+>> #### [**HW4**](https://github.com/brian098091/Azure/tree/main/TextSentimentBot)
