@@ -15,9 +15,9 @@
 
 ## 作業連結
 > ### Week3
->> #### [**HW1**](https://github.com/brian098091/LAT-Repo/blob/main/HW1/hw1.ipynb)
+>> #### [**HW1**](https://github.com/brian098091/LAT-Repo/blob/main/HW1/hw1.ipynb)臺北市市立各級學校每生享有教育經費資料分析
 > ### Week5
->> #### [**HW2**](https://github.com/brian098091/LAT-Repo/blob/main/HW2/HW2.ipynb)
+>> #### [**HW2**](https://github.com/brian098091/LAT-Repo/blob/main/HW2/HW2.ipynb)臺北市市立各級學校每生享有教育經費視覺化分析
 > ### Week6
 >> #### [**HW3**](https://github.com/brian098091/LAT-Repo/blob/main/HW3/hw3.ipynb)
 > ### Week11
